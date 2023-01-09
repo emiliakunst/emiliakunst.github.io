@@ -49,3 +49,8 @@ body {
   .sticky + .content {
     padding-top: 102px;
   }
+
+  .task-container {
+    display: flex;
+    justify-content: center;
+  }

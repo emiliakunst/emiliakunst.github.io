@@ -1,4 +1,4 @@
-best_selling_artists = read.csv('best_selling_artists.csv')
+best_selling_artists = read.csv('./data/best_selling_artists.csv')
 View(best_selling_artists)
 
 ### Are there missing data?
@@ -376,4 +376,4 @@ print(sales_vs_duration_of_career)
 cor.test(best_selling_artists$Sales, best_selling_artists$duration_of_career)
 ## No correlation can be found.
 
-write.csv(best_selling_artists, "best_selling_artists_elab.csv", row.names=FALSE)
+write.csv(best_selling_artists, "./data/best_selling_artists_new.csv", row.names=FALSE)
