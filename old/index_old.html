@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Top Music Artists</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- favicon -->
+    <link type="image/png" sizes="32x32" rel="icon" href="images/sound-button.png" />
+    <!-- JQuery -->
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.js"
+      integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Google Font CDN -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <!-- Fontawesome -->
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/w3.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body class="w3-light-grey">
+    <!-- Header -->
+    <div class="header" id="includeHeader"></div>
+
+    <!-- Sidebar -->
+    <!-- <nav
+      class="w3-sidebar w3-collapse w3-white w3-animate-left"
+      id="mySidebarHome"
+    ></nav> -->
+
+    <!-- Overlay effect when opening sidebar on small screens -->
+    <div
+      class="w3-overlay w3-hide-large w3-animate-opacity"
+      onclick="w3_close()"
+      style="cursor: pointer"
+      title="close side menu"
+      id="myOverlay"
+    ></div>
+
+    <!-- !PAGE CONTENT! -->
+    <div class="w3-main" id="pageContent">
+      <div class="container" id="headersContainer">
+        <header class="w3-container" id="HomePageTitle">
+          <h1 class="h1-mainPage"><b>Top Music Artists</b></h1>
+        </header>
+        <br />
+      </div>
+
+      <div class="w3-row-padding w3-margin-bottom">
+        <h3><b>Final Project</b> by Emilia Kunst</h3>
+      </div>
+
+      <h2>
+        <b>About Project and Data</b>
+      </h2>
+
+      <div id="description">
+        <p>
+          The website offers the possibility to view all the charts relative to
+          the different assignments of the Data Visualization course
+          @UniGe,academic year 2022/2023, made by the
+          <span><b>MammaMia!</b></span> group.
+          <br />
+          In the subpages relative to the different assignments is possible to
+          find different charts with various techniques of data visualization,
+          to show the data and present conclusions on them.
+          <br />
+          <br />
+          The data come from a
+          <a href="https://github.com/Jeko83/TrentoTreeMap"
+            >GitHub Repository</a
+          >
+          about trees abundance and position in the municipality of Trento,
+          mainly in form of json and geojson files.
+        </p>
+      </div>
+
+      <br />
+
+      <div id="containerImgTrentomap">
+        <img
+          src="./images/trentoTreeMap.png"
+          alt="Trento Tree Map"
+          class=".img-fluid"
+          id="trentoTreeMapImg"
+        />
+        <p>
+          <i
+            >(image from the
+            <a href="https://jeko83.github.io/TrentoTreeMap/"
+              >online TrentoTreeMap</a
+            >)</i
+          >
+        </p>
+      </div>
+
+      <!-- <hr> -->
+      <h2>Assignment 1 - Comparing Categories</h2>
+      <div id="descriptionAssignment1">
+        <p>
+          In the first assignment we have to compare the tree species abundance
+          and distribution, also with regard to the various "circoscrizioni"
+          (neighborhood) in which the trees are placed.
+          <br />
+          Specifically we created five charts: <br />
+          The first one is a simple barchart that shows the sorted tree
+          abundance (top 20) and others info. <br />
+          The second one compares the neighborhood and the tree types (for the
+          top 5 tree type) with a stacked barchart. <br />
+          The third chart's purpose is the same of the previous one, but in this
+          case we used small multiple charts, dividing for each tree specie.
+          <br />
+          The fourth one is again a variant version of the second one, showing a
+          stacked bar chart using the percentage of the tree species
+          distribution. <br />
+          The fifth one shows the distribution of the tree species in percentage
+          divided by neighborhood, using some waffle charts. <br />
+        </p>
+      </div>
+
+      <div class="w3-row-padding w3-margin-bottom" id="containerBtnAssgn1">
+        <div class="w3-fourth">
+          <div class="w3-container w3-light-blue w3-padding-16">
+            <div class="w3-left">
+              <a href="assignment1.html" class="text-decoration-none">
+                <i class="fa fa-chart-line w3-xlarge"></i><b> Assignment 1</b>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+
+      <hr />
+      <h2>Assignment 2 - Distribution</h2>
+      <div id="descriptionAssignment2">
+        <p>
+          In the second assignment we have to consider the distribution, in
+          different kind of visualization, of four tree's "size measure", that
+          are the height (m), the crown width (m), the canopy cover (m
+          <sup>2</sup>) and the crown height (m).
+          <br />
+          It is possible to select the desired measure using the dropdown menu.
+          <br />
+          Also this time we created five charts: <br />
+          The first one is an histogram that shows the distribution of each of
+          the four size measure for all the tree species.<br />
+          Also the second one displays the same size measure distribution, but,
+          this time, using a box plot chart, in which we can easily see outliers
+          and where is the dense part o the data distribution.<br />
+          The third chart's purpose is to show the correlation between the
+          CO<sup>2</sup> production of the top 5 tree types (considering the
+          abundance) with their size measures.<br />
+          The fourth one is the small multiple version of the previous one,
+          showing the same correlation separately for each tree type, again in a
+          scatter plot.<br />
+          The fifth and last one shows the correlation between size measures and
+          CO<sup>2</sup> production, of the top 6 tree types, with the usage of
+          a bubble chart in which the dimensions of the bubbles refers to the
+          tres's canopy size.<br />
+        </p>
+      </div>
+
+      <div class="w3-row-padding w3-margin-bottom" id="containerBtnAssgn2">
+        <div class="w3-fourth">
+          <div class="w3-container w3-light-blue w3-padding-16">
+            <div class="w3-left">
+              <a href="assignment2.html" class="text-decoration-none">
+                <i class="fa fa-chart-line w3-xlarge"></i><b> Assignment 2</b>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <br />
+      <hr />
+
+      <h2>Assignment 3 - Maps</h2>
+      <div id="descriptionAssignment3">
+        <p>
+          The third assignment of the Data Visualization course wants to show,
+          in general, the spread of the trees inside the geographical map of
+          Trento's city, that is divided according to its circoscrizioni,
+          according to different measures.
+          <br />
+          We have displayed five maps of Trento, each one provides a different
+          knowledge: <br />
+          The first map represents the distribution of the tree abundance in
+          each circoscrizione. <br />The second one, instead shows the density
+          distribution of trees (considering the total sum of the trees' area
+          respect to the area of a circoscrizione), again inside each region of
+          the city. <br />
+          The third one is similar to the previous, the only difference is that
+          we consider as measure the oxygen production of trees. <br />
+          The fourth geographical rapresentation illustrates, using dots, where
+          all the trees are located in Trento. <br />
+          In the last map we can see, where the top 10 trees, in terms of
+          quantity, are situated.
+        </p>
+      </div>
+
+      <div class="w3-row-padding w3-margin-bottom" id="containerBtnAssgn3">
+        <div class="w3-fourth">
+          <div class="w3-container w3-light-blue w3-padding-16">
+            <div class="w3-left">
+              <a href="assignment3.html" class="text-decoration-none">
+                <i class="fa fa-chart-line w3-xlarge"></i><b> Assignment 3</b>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <br />
+      <hr />
+
+      <h2>Assignment 4 - Temporal Data</h2>
+      <div id="descriptionAssignment4">
+        <p>
+          The fourth assignment of Data Visualization concerns temporal data,
+          specifically for this task we have taken temporal data relative to the
+          daily temperature of the Salorno's city, starting from 1981 until
+          2021. <br />
+          The first chart represents the trend of montly temperature, subdivided
+          in the max montly temperature, min montly temperature and average
+          montly temperature of the selected year. For showing the max and min
+          temperature we have used a line chart, while the average is
+          represented with a scatterplot between the two lines. <br />
+          The second one is a radar chart that in this case shows three lines,
+          representing again the max, min and average montly temperature for the
+          selected year. <br />
+          The last one displays the temperature's montly distribution (max and
+          min temperature) of the selected year using a particualr chart called
+          ridgline.
+        </p>
+      </div>
+
+      <div class="w3-row-padding w3-margin-bottom" id="containerBtnAssgn4">
+        <div class="w3-fourth">
+          <div class="w3-container w3-light-blue w3-padding-16">
+            <div class="w3-left">
+              <a href="assignment4.html" class="text-decoration-none">
+                <i class="fa fa-chart-line w3-xlarge"></i><b> Assignment 4</b>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <br />
+      <hr />
+
+      <h2>Assignment 5 - Flux</h2>
+      <div id="descriptionAssignment5">
+        <p>
+          The aim of the Data Visualization's last assignment (the assignment
+          number 5) is to show correlation between different measures for
+          specific tree types. For doing that we have used a kind of flux chart
+          called alluvial (or sankey) diagram. The only diagram of this
+          assignment wants to correlate the carbon storage in kg, of the top ten
+          (in terms of abundance) tree species, with the carbon storage
+          measured, this time, in euros.
+        </p>
+      </div>
+
+      <div class="w3-row-padding w3-margin-bottom" id="containerBtnAssgn5">
+        <div class="w3-fourth">
+          <div class="w3-container w3-light-blue w3-padding-16">
+            <div class="w3-left">
+              <a href="assignment5.html" class="text-decoration-none">
+                <i class="fa fa-chart-line w3-xlarge"></i><b> Assignment 5</b>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <br />
+      <br />
+
+      <!-- Site footer -->
+      <footer id="includeFooter"></footer>
+      <!-- End page content -->
+    </div>
+
+    <script>
+      // Get the Sidebar
+      var mySidebar = document.getElementById("mySidebarHome");
+
+      // Get the DIV with overlay effect
+      var overlayBg = document.getElementById("myOverlay");
+
+      // Toggle between showing and hiding the sidebar, and add overlay effect
+      function w3_open() {
+        if (mySidebar.style.display === "block") {
+          mySidebar.style.display = "none";
+          overlayBg.style.display = "none";
+        } else {
+          mySidebar.style.display = "block";
+          overlayBg.style.display = "block";
+        }
+      }
+
+      // Close the sidebar with the close button
+      function w3_close() {
+        mySidebar.style.display = "none";
+        overlayBg.style.display = "none";
+      }
+
+      $(function () {
+        $("#includeHeader").load("./components/header.html");
+      });
+      $(function () {
+        $("#includeFooter").load("./components/footer.html");
+      });
+      $(function () {
+        $("#mySidebarHome").load("./components/sidebar.html");
+      });
+    </script>
+    <script
+      src="https://kit.fontawesome.com/22c153e680.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
