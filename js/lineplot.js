@@ -67,10 +67,10 @@ d3.csv("../data/lineplot.csv", function(data) {
   // Draw the line
   svg.selectAll(".line")
       .data(sumstat)
-      .attr("class", "path-line")
       .enter()
       .append("path")
         .attr("fill", "none")
+        .attr("class", function(d) {return "lines "+ d.key})
         .attr("stroke", function(d){ return color(d.key) })
         .attr("stroke-width", 3)
         .attr("d", function(d){
@@ -80,22 +80,20 @@ d3.csv("../data/lineplot.csv", function(data) {
             (d.values)
         });
 
-  // var highlight = function (d) {
-  //     // reduce opacity of all groups
-  //     d3.selectAll(".path-line").style("opacity", .01)
+  var highlight = function(d){
+  // reduce opacity of all lines
+      d3.selectAll(".lines").style("opacity", .05)
+      // expect the one that is hovered
+      d3.selectAll("."+d).style("opacity", 1)
+  }
+      
+  // And when it is not hovered anymore
+  var noHighlight = function(d){
+      d3.selectAll(".lines").style("opacity", 1)
+  }
+      
 
-  //     // expect the one that is hovered
-  //     console.log(d)
-  //     d3.selectAll(`.line${d}`).style("opacity", 1)
-  // }
 
-  // // And when it is not hovered anymore
-  // var noHighlight = function (d) {
-  //     d3.selectAll(".line").style("opacity", 1)
-  // }  
-
-
-  var groups = ['United Kingdom','United States', 'Barbados', 'Canada', 'Australia', 'Ireland', 'Sweden', 'Trinidad and Tobago', 'Japan', 'Spain', 'Colombia', 'France', 'Jamaica']
   var size = 22
   var moveX = 150
   var xCircle = 390 + moveX
@@ -108,9 +106,8 @@ d3.csv("../data/lineplot.csv", function(data) {
       .attr("cy", function (d, i) { return 10 + i * (size + 5) }) // 100 is where the first dot appears. 25 is the distance between dots
       .attr("r", 7)
       .style("fill", function (d) { return color(d) })
-      // .on("mouseover", highlight)
-      // .on("mouseleave", noHighlight)
-            // console.log(d);
+      .on("mouseover", highlight)
+      .on("mouseleave", noHighlight)
   
   svg.selectAll("mylabels")
       .data(res)
@@ -123,7 +120,7 @@ d3.csv("../data/lineplot.csv", function(data) {
       .attr("text-anchor", "left")
       .style("alignment-baseline", "middle")
       .style('font-size', '11.5px')
-      // .on("mouseover", highlight)
-      // .on("mouseleave", noHighlight)            
+      .on("mouseover", highlight)
+      .on("mouseleave", noHighlight)           
 
 })

@@ -54,3 +54,15 @@ body {
     display: flex;
     justify-content: center;
   }
+
+  .bubbles {
+    stroke-width: 1px;
+    stroke: #6d696a;
+    opacity: .8
+  }
+  .bubbles:hover {
+    stroke: #100007;
+  }
+
+  span {
+  }
