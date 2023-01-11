@@ -1,6 +1,5 @@
-from typing import DefaultDict
 import pandas as pd
-from collections import defaultdict
+
 artists = pd.read_csv("./data/best_selling_artists_new.csv")
 
 # print(artists.to_string())
