@@ -2,23 +2,27 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background: #d8dad3;
+    
   }
   
   .top-container {
-    background-color: #f1f2eb;
-    background-image: url('../images/musicans_wordcloud.png');
+    background-color: #100007;
+    /* background-image: url('../images/musicans_wordcloud.png'); */ */
     background-position: center;
     background-size: contain;
-    padding: 100px;
+    padding: 1px;
     text-align: center;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
   }
   
   .header {
-    padding: 10px 16px;
+    padding: 5px 8px;
     padding-left: 50px;
     background: #100007;
-    color: #d8dad3;
+    color: #6d696a;
     text-align: justify;
+    font-family: Noto;
+    letter-spacing: 3px;
   }
   
   .content {
