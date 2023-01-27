@@ -18,6 +18,7 @@
         <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
         <!-- <script src="./js/sankey.js" crossorigin="anonymous"></script> -->
         <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script>
+        <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
 
 
     </head>
@@ -30,7 +31,17 @@
             <h1> Top Music Artists </h1>
         </div>
         <div class="content">
-            <h3><b>Final Project</b> by Emilia Kunst</h3>
+            <h2><b>Final Project</b> by Emilia Kunst</h2>
+
+            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+            
+            <h3>Worldmap:</h3>
+            
+            <div class="task-container" id="worldmaptooltip">
+                <svg id="worldmap" width="800" height="500"></svg>
+                <!-- style="background-color: #c9d7e8;"></svg> -->
+            </div>
+
             <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
             
             <h3>Lineplot:</h3>
@@ -51,8 +62,32 @@
             <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
             <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
             
-            <h3>Sankey Diagram:</h3>
+            <h3>Barplot:</h3>
 
+            <div class="task-container">
+                <div id="barplot"></div>
+            </div>
+            
+            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+            
+            <h3>Sankey Diagram:</h3>
+            <div class="row">
+                <div class="column">
+                    <b>Artists:</b><br>
+                    <div id="artists">
+                        <input type="radio" name="artists" value="top10" checked="checked"> Top 10<br>
+                        <input type="radio" name="artists" value="top20"> Top 20<br>
+                        <input type="radio" name="artists" value="topall"> Top All<br>
+                    </div>
+                </div>
+                <div class="column">
+                    <b>Genres:</b><br>
+                    <input type="radio" name="genres" value="sub" checked="checked"> Subgenres<br>
+                    <input type="radio" name="genres" value="main"> Main Genres<br>
+                    <input type="radio" name="genres" value="both"> Both<br>
+                </div>
+              </div>              
             <div class="task-container">
                 <div id="my_sankey"></div>
             </div>
@@ -60,13 +95,7 @@
             <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
             <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
             
-            <h3>Wordcloud:</h3>
-
-            <div class="task-container">
-                
-            </div>
-            
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+                      
             <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
             <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
             <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p> 
@@ -78,6 +107,7 @@
         </div>
 
         <div class="footer">
+            <p>Final Project for the Data Visualization course 2022/2023 at DIBRIS, UniGe.</p>
             <p>Copyright &copy; 2022 All Rights Reserved by Emilia Kunst.</p>
         </div>
 
@@ -97,8 +127,10 @@
             }
             }
         </script>
+        <script src="./js/worldmap.js" crossorigin="anonymous"></script>
         <script src="./js/lineplot.js" crossorigin="anonymous"></script>
         <script src="./js/bubblechart.js" crossorigin="anonymous"></script>
+        <script src="./js/barplot.js" crossorigin="anonymous"></script>
         <script src="./js/my_sankey.js" crossorigin="anonymous"></script>
         <script src="./js/wordcloud.js" crossorigin="anonymous"></script>
     </body>

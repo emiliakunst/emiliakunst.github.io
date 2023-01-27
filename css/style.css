@@ -7,12 +7,12 @@ body {
   
   .top-container {
     background-color: #100007;
-    /* background-image: url('../images/musicans_wordcloud.png'); */ */
+    /* background-image: url('../images/musicans_wordcloud.png');  */
     background-position: center;
     background-size: contain;
     padding: 1px;
     text-align: center;
-    overflow-x: hidden; /* Hide horizontal scrollbar */
+    /* overflow-x: hidden; */
   }
   
   .header {
@@ -87,4 +87,16 @@ body {
   
   .link:hover {
     stroke-opacity: .5;
+  }
+
+  .column {
+    float: left;
+    width: 15%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
   }

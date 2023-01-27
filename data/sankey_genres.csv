@@ -1,0 +1,53 @@
+source,target,value
+progressive rock,rock,115.1
+grunge,rock,28.0
+art rock,rock,13.8
+glam rock,rock,13.8
+psychedelic rock,rock,112.4
+blues rock,rock,71.1
+folk rock,rock,54.8
+hard rock,rock,469.3
+surf rock,rock,10.9
+soft rock,rock,51.0
+alternative rock,rock,211.3
+funk rock,rock,48.7
+rap rock,rock,17.0
+rock and roll,rock,131.2
+punk rock,rock,8.8
+country pop,pop,63.5
+j-pop,pop,16.1
+teen pop,pop,185.2
+dance pop,pop,204.0
+latin pop,pop,43.8
+folk pop,pop,61.7
+pop punk,pop,8.8
+adult contemporary,pop,82.30000000000001
+pop rock,pop,434.7
+electropop,pop,20.7
+dance-pop,pop,38.6
+soul,r&b and soul,280.3
+gospel,r&b and soul,49.5
+neo soul,r&b and soul,27.7
+r&b,r&b and soul,1201.2
+blues rock,blues,71.1
+folk rock,folk,54.8
+folk pop,folk,61.7
+celtic,folk,25.9
+heavy metal,metal,161.20000000000002
+glam metal,metal,44.4
+thrash metal,metal,52.8
+nu metal,metal,33.9
+disco,electronic,119.70000000000002
+electropop,electronic,20.7
+dance-pop,electronic,38.6
+electronica,electronic,60.6
+hip house,electronic,28.3
+edm,electronic,28.3
+new-age,electronic,25.9
+swing,jazz,13.4
+smooth jazz,jazz,53.9
+funk rock,funk,48.7
+rap rock,hip-hop,17.0
+pop punk,punk,8.8
+punk rock,punk,8.8
+country pop,country,63.5

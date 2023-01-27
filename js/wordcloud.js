@@ -7,7 +7,7 @@
         
     // set the dimensions and margin_wcs of the graph
     var margin_wc = {top: 0, right: 0, bottom: 00, left: 0},
-        width_wc = screen.width - margin_wc.left - margin_wc.right,
+        width_wc = screen.width - 300 + margin_wc.left + margin_wc.right,
         height_wc = 200 - margin_wc.top - margin_wc.bottom;
 
     // append the svg object to the body of the page
@@ -50,5 +50,4 @@
                 return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
             })
             .text(function(d) { return d.text; });
-            console.log(words)
     }
