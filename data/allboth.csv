@@ -1,0 +1,453 @@
+source,target,value
+United Kingdom,The Beatles,290.4
+The Beatles,rock,145.2
+The Beatles,pop,145.2
+United States,Elvis Presley,231.2
+Elvis Presley,rock and roll,77.0667
+Elvis Presley,pop,77.0667
+Elvis Presley,country,77.0667
+United States,Michael Jackson,277.3
+Michael Jackson,pop,55.46
+Michael Jackson,rock,55.46
+Michael Jackson,dance,55.46
+Michael Jackson,soul,55.46
+Michael Jackson,r&b,55.46
+United Kingdom,Elton John,208.0
+Elton John,pop,104.0
+Elton John,rock,104.0
+United Kingdom,Queen,184.0
+Queen,rock,184.0
+United States,Madonna,181.7
+Madonna,pop,60.5667
+Madonna,dance,60.5667
+Madonna,electronica,60.5667
+United Kingdom,Led Zeppelin,142.4
+Led Zeppelin,hard rock,47.4667
+Led Zeppelin,blues rock,47.4667
+Led Zeppelin,folk rock,47.4667
+Barbados,Rihanna,335.3
+Rihanna,r&b,83.825
+Rihanna,pop,83.825
+Rihanna,dance,83.825
+Rihanna,hip-hop,83.825
+United Kingdom,Pink Floyd,123.8
+Pink Floyd,progressive rock,61.9
+Pink Floyd,psychedelic rock,61.9
+United States,Eminem,325.7
+Eminem,hip-hop,325.7
+United States,Mariah Carey,205.8
+Mariah Carey,r&b,51.45
+Mariah Carey,pop,51.45
+Mariah Carey,soul,51.45
+Mariah Carey,hip-hop,51.45
+United States,Taylor Swift,250.4
+Taylor Swift,pop,50.08
+Taylor Swift,country,50.08
+Taylor Swift,rock,50.08
+Taylor Swift,folk,50.08
+Taylor Swift,alternative,50.08
+United States,Beyoncé,226.5
+Beyoncé,r&b,113.25
+Beyoncé,pop,113.25
+United States,Whitney Houston,155.3
+Whitney Houston,r&b,38.825
+Whitney Houston,soul,38.825
+Whitney Houston,pop,38.825
+Whitney Houston,gospel,38.825
+United States,Eagles,152.2
+Eagles,rock,152.2
+Canada,Celine Dion,143.0
+Celine Dion,pop,71.5
+Celine Dion,rock,71.5
+Australia,AC/DC,130.2
+AC/DC,hard rock,43.4
+AC/DC,blues rock,43.4
+AC/DC,rock and roll,43.4
+United Kingdom,The Rolling Stones,102.7
+The Rolling Stones,rock,51.35
+The Rolling Stones,blues rock,51.35
+Canada,Drake,413.06
+Drake,hip-hop,137.6867
+Drake,r&b,137.6867
+Drake,pop,137.6867
+United States,Garth Brooks,165.3
+Garth Brooks,country,165.3
+United States,Kanye West,258.3
+Kanye West,hip-hop,86.1
+Kanye West,electronic,86.1
+Kanye West,pop,86.1
+United States,Billy Joel,134.4
+Billy Joel,pop,67.2
+Billy Joel,rock,67.2
+Canada,Justin Bieber,138.95
+Justin Bieber,pop,92.6333
+Justin Bieber,teen pop,92.6333
+Justin Bieber,dance pop,92.6333
+United States,Justin Bieber,138.95
+United Kingdom,Ed Sheeran,246.7
+Ed Sheeran,pop,123.35
+Ed Sheeran,folk pop,123.35
+United States,Bruno Mars,203.6
+Bruno Mars,pop rock,101.8
+Bruno Mars,r&b,101.8
+United States,Bruce Springsteen,127.9
+Bruce Springsteen,rock,127.9
+Ireland,U2,114.6
+U2,rock,114.6
+United States,Aerosmith,104.8
+Aerosmith,hard rock,104.8
+United Kingdom,Phil Collins,99.4
+Phil Collins,rock,33.1333
+Phil Collins,progressive rock,33.1333
+Phil Collins,adult contemporary,33.1333
+United States,Barbra Streisand,98.4
+Barbra Streisand,pop,49.2
+Barbra Streisand,adult contemporary,49.2
+Sweden,ABBA,69.0
+ABBA,pop,34.5
+ABBA,disco,34.5
+United States,Frank Sinatra,40.2
+Frank Sinatra,pop,13.4
+Frank Sinatra,swing,13.4
+Frank Sinatra,easy listening,13.4
+United States,Katy Perry,172.9
+Katy Perry,pop,172.9
+United States,Chris Brown,199.7
+Chris Brown,pop,66.5667
+Chris Brown,r&b,66.5667
+Chris Brown,hip-hop,66.5667
+United States,Jay-Z,136.4
+Jay-Z,hip-hop,136.4
+United States,Metallica,105.6
+Metallica,heavy metal,52.8
+Metallica,thrash metal,52.8
+United States,Lady Gaga,159.0
+Lady Gaga,pop,53.0
+Lady Gaga,dance,53.0
+Lady Gaga,electronic,53.0
+United States,Lil Wayne,188.7
+Lil Wayne,hip-hop,188.7
+United States,Maroon 5,142.6
+Maroon 5,pop rock,47.5333
+Maroon 5,funk rock,47.5333
+Maroon 5,dance-pop,47.5333
+United Kingdom,Adele,135.4
+Adele,pop,67.7
+Adele,soul,67.7
+United States,Red Hot Chili Peppers,99.8
+Red Hot Chili Peppers,funk rock,49.9
+Red Hot Chili Peppers,alternative rock,49.9
+United Kingdom,Fleetwood Mac,94.4
+Fleetwood Mac,rock,47.2
+Fleetwood Mac,pop,47.2
+United States,Fleetwood Mac,94.4
+Fleetwood Mac,rock,47.2
+Fleetwood Mac,pop,47.2
+United States,Bon Jovi,88.7
+Bon Jovi,hard rock,44.35
+Bon Jovi,glam metal,44.35
+United Kingdom,Rod Stewart,84.9
+Rod Stewart,rock,42.45
+Rod Stewart,pop,42.45
+United Kingdom,Bee Gees,74.7
+Bee Gees,pop,37.35
+Bee Gees,disco,37.35
+Australia,Bee Gees,74.7
+Bee Gees,pop,37.35
+Bee Gees,disco,37.35
+Trinidad and Tobago,Nicki Minaj,156.3
+Nicki Minaj,hip-hop,78.15
+Nicki Minaj,pop,78.15
+United Kingdom,Coldplay,109.4
+Coldplay,alternative rock,36.4667
+Coldplay,pop rock,36.4667
+Coldplay,pop,36.4667
+United States,Linkin Park,101.8
+Linkin Park,alternative rock,33.9333
+Linkin Park,nu metal,33.9333
+Linkin Park,rap rock,33.9333
+United States,George Strait,99.8
+George Strait,country,99.8
+United States,Pink,90.8
+Pink,pop,30.2667
+Pink,pop rock,30.2667
+Pink,r&b,30.2667
+United States,Britney Spears,88.7
+Britney Spears,pop,29.5667
+Britney Spears,dance,29.5667
+Britney Spears,dance-pop,29.5667
+Japan,B'z,86.2
+B'z,rock,28.7333
+B'z,pop rock,28.7333
+B'z,hard rock,28.7333
+Canada,Shania Twain,84.8
+Shania Twain,country pop,84.8
+United States,Guns N' Roses,80.409
+Guns N' Roses,hard rock,40.2045
+Guns N' Roses,heavy metal,40.2045
+United States,Backstreet Boys,78.0
+Backstreet Boys,pop,78.0
+United Kingdom,Eric Clapton,71.6
+Eric Clapton,rock,35.8
+Eric Clapton,blues,35.8
+United States,Neil Diamond,71.1
+Neil Diamond,pop,35.55
+Neil Diamond,rock,35.55
+United States,Prince,66.3
+Prince,funk,13.26
+Prince,r&b,13.26
+Prince,pop,13.26
+Prince,soul,13.26
+Prince,rock,13.26
+United States,Journey,65.2
+Journey,rock,32.6
+Journey,soft rock,32.6
+United Kingdom,Paul McCartney,66.0
+Paul McCartney,rock,66.0
+United States,Janet Jackson,65.3
+Janet Jackson,r&b,32.65
+Janet Jackson,pop,32.65
+United States,Kenny Rogers,64.7
+Kenny Rogers,country,32.35
+Kenny Rogers,pop,32.35
+United States,Santana,62.8
+Santana,rock,62.8
+United States,Simon & Garfunkel,62.1
+Simon & Garfunkel,folk rock,62.1
+United Kingdom,George Michael,52.8
+George Michael,pop,52.8
+Spain,Julio Iglesias,51.7
+Julio Iglesias,latin,51.7
+United Kingdom,Dire Straits,51.7
+Dire Straits,rock,51.7
+United States,The Doors,50.5
+The Doors,psychedelic rock,50.5
+United Kingdom,Foreigner,50.4
+Foreigner,rock,25.2
+Foreigner,hard rock,25.2
+United States,Foreigner,50.4
+Foreigner,rock,25.2
+Foreigner,hard rock,25.2
+United States,Chicago,48.5
+Chicago,rock,24.25
+Chicago,pop,24.25
+United States,Bob Dylan,47.9
+Bob Dylan,folk,23.95
+Bob Dylan,rock,23.95
+United States,The Carpenters,46.7
+The Carpenters,pop,46.7
+United States,Meat Loaf,46.6
+Meat Loaf,rock,23.3
+Meat Loaf,hard rock,23.3
+United States,"Earth, Wind & Fire",44.7
+"Earth, Wind & Fire",funk,14.9
+"Earth, Wind & Fire",r&b,14.9
+"Earth, Wind & Fire",soul,14.9
+United States,Cher,43.1
+Cher,pop,10.775
+Cher,rock,10.775
+Cher,dance,10.775
+Cher,folk,10.775
+United Kingdom,Def Leppard,42.6
+Def Leppard,hard rock,21.3
+Def Leppard,heavy metal,21.3
+United Kingdom,Genesis,40.3
+Genesis,progressive rock,20.15
+Genesis,pop rock,20.15
+United Kingdom,David Bowie,41.5
+David Bowie,art rock,13.8333
+David Bowie,glam rock,13.8333
+David Bowie,pop,13.8333
+United States,Stevie Wonder,38.9
+Stevie Wonder,funk,12.9667
+Stevie Wonder,r&b,12.9667
+Stevie Wonder,soul,12.9667
+United States,James Taylor,36.5
+James Taylor,rock,18.25
+James Taylor,pop,18.25
+United States,Tina Turner,36.4
+Tina Turner,rock,18.2
+Tina Turner,pop,18.2
+Australia,Olivia Newton-John,36.1
+Olivia Newton-John,pop,36.1
+United States,Linda Ronstadt,33.2
+Linda Ronstadt,rock,11.0667
+Linda Ronstadt,folk,11.0667
+Linda Ronstadt,country,11.0667
+United States,The Beach Boys,32.7
+The Beach Boys,rock,10.9
+The Beach Boys,pop,10.9
+The Beach Boys,surf rock,10.9
+United States,Donna Summer,31.3
+Donna Summer,pop,10.4333
+Donna Summer,disco,10.4333
+Donna Summer,r&b,10.4333
+United States,Alicia Keys,85.9
+Alicia Keys,hip-hop,28.6333
+Alicia Keys,r&b,28.6333
+Alicia Keys,pop,28.6333
+United States,Christina Aguilera,76.6
+Christina Aguilera,r&b,25.5333
+Christina Aguilera,pop,25.5333
+Christina Aguilera,rock,25.5333
+United States,Lionel Richie,43.0
+Lionel Richie,pop,21.5
+Lionel Richie,r&b,21.5
+United States,Johnny Cash,32.2
+Johnny Cash,country,10.7333
+Johnny Cash,rock and roll,10.7333
+Johnny Cash,gospel,10.7333
+United States,Justin Timberlake,83.0
+Justin Timberlake,pop,27.6667
+Justin Timberlake,r&b,27.6667
+Justin Timberlake,neo soul,27.6667
+United States,Ariana Grande,143.2
+Ariana Grande,pop,71.6
+Ariana Grande,r&b,71.6
+United States,R.E.M.,45.3
+R.E.M.,alternative rock,45.3
+United States,Post Malone,207.0
+Post Malone,pop,69.0
+Post Malone,r&b,69.0
+Post Malone,hip-hop,69.0
+United States,Flo Rida,85.0
+Flo Rida,hip-hop,28.3333
+Flo Rida,hip house,28.3333
+Flo Rida,edm,28.3333
+United States,Usher,76.6
+Usher,r&b,38.3
+Usher,pop,38.3
+Colombia,Shakira,75.0
+Shakira,latin pop,25.0
+Shakira,pop,25.0
+Shakira,pop rock,25.0
+United States,Tim McGraw,72.3
+Tim McGraw,country,72.3
+United States,The Black Eyed Peas,69.8
+The Black Eyed Peas,hip-hop,23.2667
+The Black Eyed Peas,r&b,23.2667
+The Black Eyed Peas,dance,23.2667
+United States,Van Halen,65.2
+Van Halen,hard rock,32.6
+Van Halen,heavy metal,32.6
+Japan,Ayumi Hamasaki,64.5
+Ayumi Hamasaki,j-pop,16.125
+Ayumi Hamasaki,pop,16.125
+Ayumi Hamasaki,dance,16.125
+Ayumi Hamasaki,electronic,16.125
+United States,Tom Petty,36.0
+Tom Petty,rock,36.0
+France,Johnny Hallyday,28.9
+Johnny Hallyday,rock,14.45
+Johnny Hallyday,pop,14.45
+Canada,The Weeknd,213.4
+The Weeknd,pop,106.7
+The Weeknd,r&b,106.7
+United States,Imagine Dragons,124.4
+Imagine Dragons,pop rock,41.4667
+Imagine Dragons,electropop,41.4667
+Imagine Dragons,pop,41.4667
+United States,Luke Bryan,84.5
+Luke Bryan,country,42.25
+Luke Bryan,country pop,42.25
+United States,Tupac Shakur,60.1
+Tupac Shakur,hip-hop,60.1
+United States,Alabama,58.0
+Alabama,country,29.0
+Alabama,pop rock,29.0
+United States,R. Kelly,56.8
+R. Kelly,r&b,18.9333
+R. Kelly,soul,18.9333
+R. Kelly,hip-hop,18.9333
+United States,Nirvana,56.0
+Nirvana,grunge,28.0
+Nirvana,alternative rock,28.0
+United Kingdom,Robbie Williams,55.9
+Robbie Williams,pop rock,55.9
+United States,Bob Seger,55.3
+Bob Seger,rock,18.4333
+Bob Seger,hard rock,18.4333
+Bob Seger,pop rock,18.4333
+United States,Kenny G,53.9
+Kenny G,smooth jazz,53.9
+United States,Green Day,53.0
+Green Day,punk rock,17.6667
+Green Day,pop punk,17.6667
+Green Day,alternative rock,17.6667
+Ireland,Enya,51.9
+Enya,new-age,25.95
+Enya,celtic,25.95
+Canada,Bryan Adams,49.9
+Bryan Adams,rock,49.9
+Jamaica,Bob Marley,46.3
+Bob Marley,reggae,46.3
+United Kingdom,The Police,42.2
+The Police,pop,21.1
+The Police,rock,21.1
+United States,Gloria Estefan,37.6
+Gloria Estefan,latin pop,18.8
+Gloria Estefan,dance pop,18.8
+United States,Barry Manilow,36.7
+Barry Manilow,pop,18.35
+Barry Manilow,soft rock,18.35
+United States,Kiss,28.7
+Kiss,hard rock,14.35
+Kiss,heavy metal,14.35
+United States,Aretha Franklin,26.6
+Aretha Franklin,soul,6.65
+Aretha Franklin,jazz,6.65
+Aretha Franklin,blues,6.65
+Aretha Franklin,r&b,6.65
+progressive rock,rock,115.1
+grunge,rock,28.0
+pop rock,rock,217.29999999999998
+art rock,rock,13.8
+glam rock,rock,13.8
+psychedelic rock,rock,112.4
+blues rock,rock,71.1
+folk rock,rock,54.8
+hard rock,rock,469.3
+surf rock,rock,10.9
+soft rock,rock,51.0
+alternative rock,rock,211.3
+funk rock,rock,48.7
+rap rock,rock,17.0
+rock and roll,rock,131.2
+punk rock,rock,8.8
+country pop,pop,63.5
+j-pop,pop,16.1
+teen pop,pop,92.6
+dance pop,pop,111.39999999999999
+latin pop,pop,43.8
+folk pop,pop,61.7
+pop punk,pop,8.8
+adult contemporary,pop,82.30000000000001
+pop rock,pop,217.29999999999998
+electropop,pop,20.7
+dance-pop,pop,38.6
+soul,r&b and soul,280.3
+gospel,r&b and soul,49.5
+neo soul,r&b and soul,27.7
+r&b,r&b and soul,1201.2
+blues rock,blues,71.1
+folk rock,folk,54.8
+folk pop,folk,61.7
+celtic,folk,25.9
+heavy metal,metal,161.20000000000002
+glam metal,metal,44.4
+thrash metal,metal,52.8
+nu metal,metal,33.9
+disco,electronic,119.70000000000002
+electropop,electronic,20.7
+dance-pop,electronic,38.6
+electronica,electronic,60.6
+hip house,electronic,28.3
+edm,electronic,28.3
+new-age,electronic,25.9
+swing,jazz,13.4
+smooth jazz,jazz,53.9
+funk rock,funk,48.7
+rap rock,hip-hop,17.0
+pop punk,punk,8.8
+punk rock,punk,8.8
+country pop,country,63.5

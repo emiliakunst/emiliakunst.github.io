@@ -303,11 +303,14 @@ d3.sankey = function() {
 
 // csv neu ab line 401
 
-var datapath = "../data/sankey.csv"
+var datapath = "../data/top10sub.csv"
 artistValue = "top10"
 genreValue = "sub";
 
 
+
+
+// radio buttons update and new sankeys
 
 const buttons = d3.selectAll('input');
 buttons.on('change', function(d){
@@ -325,9 +328,9 @@ buttons.on('change', function(d){
 var units = "Widgets";
 
 // set the dimensions and margins of the graph
-var marginsankey = {top: 30, right: 30, bottom: 30, left: 30},
+var marginsankey = {top: 01, right: 01, bottom: 10, left: 01},
     widthsankey = 700 - marginsankey.left - marginsankey.right,
-    heightsankey = 3000 - marginsankey.top - marginsankey.bottom;
+    heightsankey = 550 - marginsankey.top - marginsankey.bottom;
 
 // format variables
 var formatNumber = d3.format(",.0f"),    // zero decimal places
@@ -351,12 +354,134 @@ var sankey = d3.sankey()
 
 var path = sankey.link();
 
-// Function that changes data
+// print standart settings sankey
+
+d3.csv(datapath, function(error, data) {
+    
+  
+  //set up graph in same style as original example but empty
+  graph = {"nodes" : [], "links" : []};
+
+  data.forEach(function (d) {
+    graph.nodes.push({ "name": d.source });
+    graph.nodes.push({ "name": d.target });
+    graph.links.push({ "source": d.source,
+                      "target": d.target,
+                      "value": +d.value });
+  });
+
+  // return only the distinct / unique nodes
+  graph.nodes = d3.keys(d3.nest()
+    .key(function (d) { return d.name; })
+    .object(graph.nodes));
+
+  // loop through each link replacing the text with its index from node
+  graph.links.forEach(function (d, i) {
+    graph.links[i].source = graph.nodes.indexOf(graph.links[i].source);
+    graph.links[i].target = graph.nodes.indexOf(graph.links[i].target);
+  });
+
+  // now loop through each nodes to make nodes an array of objects
+  // rather than an array of strings
+  graph.nodes.forEach(function (d, i) {
+    graph.nodes[i] = { "name": d };
+  });
+
+  sankey
+      .nodes(graph.nodes)
+      .links(graph.links)
+      .layout(32);
+
+  // add in the links
+  var link = sankeysvg
+    .append("g").selectAll(".link")
+      .data(graph.links)
+    .enter().append("path")
+      .attr("class", "link")
+      .attr("d", path)
+      .style("stroke-width", function(d) { return Math.max(1, d.dy); })
+      .sort(function(a, b) { return b.dy - a.dy; });
+
+  // add the link titles
+  link.append("title")
+        .text(function(d) {
+        return d.source.name + " → " + 
+                d.target.name + "\n" + format(d.value); });
+
+  // add in the nodes
+  var node = sankeysvg.append("g").selectAll(".node")
+      .data(graph.nodes)
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { 
+      return "translate(" + d.x + "," + d.y + ")"; })
+      .call(d3.drag()
+        .subject(function(d) {
+          return d;
+        })
+        .on("start", function() {
+          this.parentNode.appendChild(this);
+        })
+        .on("drag", dragmove));
+
+  // add the rectangles for the nodes
+  node.append("rect")
+      .attr("height", function(d) { return d.dy; })
+      .attr("width", sankey.nodeWidth())
+      .style("fill", function(d) { 
+      return d.color = color(d.name.replace(/ .*/, "")); })
+      .style("stroke", function(d) { 
+      return d3.rgb(d.color).darker(2); })
+    .append("title")
+      .text(function(d) { 
+      return d.name + "\n" + format(d.value); });
+
+  // add in the title for the nodes
+  node.append("text")
+      .attr("x", -6)
+      .attr("y", function(d) { return d.dy / 2; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", "end")
+      .attr("transform", null)
+      .text(function(d) { return d.name; })
+    .filter(function(d) { return d.x < width / 2; })
+      .attr("x", 6 + sankey.nodeWidth())
+      .attr("text-anchor", "start");
+
+  // the function for moving the nodes
+  function dragmove(d) {
+    d3.select(this)
+      .attr("transform", 
+            "translate(" 
+              + d.x + "," 
+              + (d.y = Math.max(
+                  0, Math.min(height - d.dy, d3.event.y))
+                ) + ")");
+    sankey.relayout();
+    link.attr("d", path);}
+})
+
+// Function that changes data and prints new sankey accordingly
 function changeData() {
   console.log(artistValue, genreValue)
-  if(artistValue == "topall") {
-    datapath = "../data/sankey_genres.csv"
+  if (artistValue == "top10") {
+    if(genreValue == "sub") {
+      datapath = "../data/top10sub.csv"
+    } else if (genreValue == "main") {
+      datapath = "../data/top10main.csv"
+    } else if (genreValue == "both") {
+      datapath = "../data/top10both.csv"
+    }
+  } else if (artistValue == "top20") {
+    if(genreValue == "sub") {
+      datapath = "../data/top20sub.csv"
+    } else if (genreValue == "main") {
+      datapath = "../data/top20main.csv"
+    } else if (genreValue == "both") {
+      datapath = "../data/top20both.csv"
+    }
   }
+
   console.log(datapath)
   sankeysvg.selectAll("*").remove();
   // load the data

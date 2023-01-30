@@ -39,7 +39,7 @@ var bubblesvg = d3.select("#bubblechart")
     .domain([0, 450])
     .range([ height, 0]);
   bubblesvg.append("g")
-    .call(d3.axisLeft(y));
+    .call(d3.axisLeft(y).tickValues([50,150,250,350,450]));
 
   // Add Y axis label:
   bubblesvg.append("text")

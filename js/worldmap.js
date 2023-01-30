@@ -56,7 +56,6 @@ d3.queue()
 function ready(error, topo) {
 
   let mouseOver = function(d) {
-    console.log(d, this)
     d3.selectAll(".Country")
       .transition()
       .duration(200)
@@ -119,7 +118,7 @@ function ready(error, topo) {
       })
       
       .style("stroke", "black")
-      .attr("stroke-width", 0.1)
+      .attr("stroke-width", 0.4)
       .attr("class", function(d){ return "Country" } )
       .style("opacity", .8)
       .on("mouseover", function(d) {

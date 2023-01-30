@@ -1,6 +1,7 @@
 source,target,value
 progressive rock,rock,115.1
 grunge,rock,28.0
+pop rock,rock,217.29999999999998
 art rock,rock,13.8
 glam rock,rock,13.8
 psychedelic rock,rock,112.4
@@ -16,13 +17,13 @@ rock and roll,rock,131.2
 punk rock,rock,8.8
 country pop,pop,63.5
 j-pop,pop,16.1
-teen pop,pop,185.2
-dance pop,pop,204.0
+teen pop,pop,92.6
+dance pop,pop,111.39999999999999
 latin pop,pop,43.8
 folk pop,pop,61.7
 pop punk,pop,8.8
 adult contemporary,pop,82.30000000000001
-pop rock,pop,434.7
+pop rock,pop,217.29999999999998
 electropop,pop,20.7
 dance-pop,pop,38.6
 soul,r&b and soul,280.3

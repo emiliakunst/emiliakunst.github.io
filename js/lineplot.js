@@ -47,7 +47,7 @@ d3.csv("../data/lineplot.csv", function(data) {
     .domain([0, d3.max(data, function(d) { return +d.Count; })])
     .range([ height, 0 ]);
   svg.append("g")
-    .call(d3.axisLeft(y))
+    .call(d3.axisLeft(y).tickValues([10,30,50,70]))
     .style('font-size', '11px')
 
   // Add Y axis label
