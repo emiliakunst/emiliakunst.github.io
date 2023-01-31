@@ -4,7 +4,21 @@ body {
     background: #d8dad3;
     
   }
-  
+
+h2 {
+  font-family: Noto;
+  color: #100007;
+  text-align: center;
+}
+
+h3 {
+  font-family: Noto;
+  color: #100007;
+  text-align: center;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-top: 15px;
+}
   .top-container {
     background-color: #100007;
     /* background-image: url('../images/musicans_wordcloud.png');  */
@@ -32,6 +46,14 @@ body {
     color: black;
     background: #f1f2eb;
     box-shadow: 0 0px 16px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  .mypg {
+    line-height: 150%;
+    text-align: justify;
+    padding: 0px 15px 0px 15px;
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif */
+    font-family:Georgia, 'Times New Roman', Times, serif
   }
 
   .footer {
@@ -100,3 +122,7 @@ body {
     display: table;
     clear: both;
   }
+
+svg {
+  padding: 0px;
+}

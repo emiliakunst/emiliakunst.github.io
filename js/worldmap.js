@@ -1,4 +1,4 @@
-var margin = {top: 30, right: 10, bottom: 30, left: 10};
+var margin = {top: 30, right: 10, bottom: 40, left: 10};
 
 // The svg
 var worldmap = d3.select("#worldmap"),
@@ -39,7 +39,7 @@ d3.queue()
     })
     .await(ready);
 
-    var tooltip_wm = d3.select("#worldmaptooltip")
+var tooltip_wm = d3.select("#worldmaptooltip")
     .append("div")
     .style("opacity", 0)
     .attr("class", "tooltip")
@@ -73,7 +73,7 @@ function ready(error, topo) {
       .style("opacity", 1)
     tooltip_wm
       .html("<span style='color:#6d696a'><b>Country: </b></span>" + names.get(d.id)
-        + "<br><span style='color:#6d696a'><b>TCUs: </b></span>" + data.get(d.id) + " milions")
+        + "<br><br><span style='color:#6d696a'><b>TCUs: </b></span>" + data.get(d.id) + " milions")
       .style("left", (event.pageX + 10) + "px" )
       .style("top", (event.pageY) + "px")
   }
@@ -137,3 +137,88 @@ function ready(error, topo) {
         }
     })
     }
+
+// Draw legend
+var legend = d3.select("#legend")
+  .append("svg")
+  .attr("width", 700)
+  .attr("height", 50)
+
+// Create the scale
+var scalex = d3.scaleBand()
+    .domain([0, 20, 60, 100, 200, 1000, 2000, 8000])       // This is what is written on the Axis: from 0 to 100
+    .range([100, 700])                       // This is where the axis is placed: from 100 px to 800px
+    // .padding([0.8])  
+
+// Draw the axis
+legend
+  .append("g")
+  .attr("transform", "translate(0,40)")      // This controls the vertical position of the Axis
+  // .style("top", 400 + "px")
+  // .style("position", "absolute")
+  .call(d3.axisBottom(scalex).tickSize(0));
+
+legend
+  .append("rect")
+  .attr("x", scalex("0") )
+  .attr("y",20)
+  .attr("height", 20)
+  .attr("width", scalex.bandwidth() )
+  .style("fill", colorScale("0"))
+  .style("opacity", 0.8)
+legend
+  .append("rect")
+  .attr("x", scalex("20") )
+  .attr("y",20)
+  .attr("height", 20)
+  .attr("width", scalex.bandwidth() )
+  .style("fill", colorScale("20"))
+  .style("opacity", 0.8)
+legend
+  .append("rect")
+  .attr("x", scalex("60") )
+  .attr("y",20)
+  .attr("height", 20)
+  .attr("width", scalex.bandwidth() )
+  .style("fill", colorScale("60"))
+  .style("opacity", 0.8)
+legend
+  .append("rect")
+  .attr("x", scalex("100") )
+  .attr("y",20)
+  .attr("height", 20)
+  .attr("width", scalex.bandwidth() )
+  .style("fill", colorScale("100"))
+  .style("opacity", 0.8)
+legend
+  .append("rect")
+  .attr("x", scalex("200") )
+  .attr("y",20)
+  .attr("height", 20)
+  .attr("width", scalex.bandwidth() )
+  .style("fill", colorScale("200"))
+  .style("opacity", 0.8)
+legend
+  .append("rect")
+  .attr("x", scalex("1000") )
+  .attr("y",20)
+  .attr("height", 20)
+  .attr("width", scalex.bandwidth() )
+  .style("fill", colorScale("1000"))
+  .style("opacity", 0.8)
+legend
+  .append("rect")
+  .attr("x", scalex("2000") )
+  .attr("y",20)
+  .attr("height", 20)
+  .attr("width", scalex.bandwidth() )
+  .style("fill", colorScale("2000"))
+  .style("opacity", 0.8)
+legend
+  .append("rect")
+  .attr("x", scalex("8000") )
+  .attr("y",20)
+  .attr("height", 20)
+  .attr("width", scalex.bandwidth() )
+  .style("fill", colorScale("8000"))
+  .style("opacity", 0.8)

@@ -22,9 +22,10 @@ bubblechart_array = []
 
 #bubblechart = pd.DataFrame(bubblechart_array, columns=['Country', 'TCU', 'Sales', 'Duration', 'Name'])
 bubblechart = artists.filter(['Country','TCU','Sales', 'duration_of_career', 'Artist'], axis=1)
-print(bubblechart.to_string())
+# print(bubblechart.to_string())
 
-bubblechart.to_csv("./data/bubblechart.csv", index=False)
+# bubblechart.to_csv("./data/bubblechart.csv", index=False)
 
-print("min: "+str(min(bubblechart.loc[:,"Sales"])))
-print("max: "+str(max(bubblechart.loc[:,"Sales"])))
+# print("min: "+str(min(bubblechart.loc[:,"Sales"])))
+# print("max: "+str(max(bubblechart.loc[:,"Sales"])))
+print("sum: "+str(sum(bubblechart.loc[:,"TCU"])))

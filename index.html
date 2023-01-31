@@ -31,49 +31,82 @@
             <h1> Top Music Artists </h1>
         </div>
         <div class="content">
-            <h2><b>Final Project</b> by Emilia Kunst</h2>
+            <h2>Best Selling Music Artists of All Time<br>
+            Final Project by Emilia Kunst</h2>
 
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+            <p class="mypg">
+                The aim of this final project is to visualize interesting aspects about the <a href="https://www.kaggle.com/datasets/kabhishm/best-selling-music-artists-of-all-time" target="_blank">Best selling Music Artists of All Time</a> data set,
+                that condiders all music artists from the 20th century to the present who breached the mark of 75 milions claimed record sales worldwide. Goal is to show the most influential aspects of the music industry.
+                The header of this webpage gives an overview of who is in that list of artists and the font size is relative to their claimed sales. Try refreshing the page! It may help you to spot an artist you haven't spot before...
+            </p>
             
-            <h3>Worldmap:</h3>
-            
+            <h3>The Origin of Our Music</h3>
+            <p class="mypg">
+                That many childhood dreams of becoming a music artist are closely associated with the wish of going overseas is no coincidence!
+                Indeed, the sum off all the total certified units (short: TCU) that were created by American artists is an incredible total of roughly 8241.8 millions.
+                That is nearly two thirds of the world total being 13155.8 million TCU! 
+            </p>
             <div class="task-container" id="worldmaptooltip">
                 <svg id="worldmap" width="800" height="500"></svg>
                 <!-- style="background-color: #c9d7e8;"></svg> -->
             </div>
+            <svg id="legend" width="700" height="50"></svg>
+            <p class="mypg">
+                This interactive world map shows where the top artists originate. The darker the grey the higher the number of TCU in that country! Hovering over a country will show both the name of the country as well as the number of TCU.
+                Interesting is, that size appearantly really doesn't matter. Trinidad and Tobago for instance has more than half as many TCUs as Australia. Can you find it? Zooming in on your sreen might help.
+            </p>
 
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            
-            <h3>Lineplot:</h3>
-            
+    
+            <h3>Active artists - When and Where?</h3>
+            <p class="mypg">
+                What clearly matters is the number of artists that come from a country as the following lineplot shows! It is obvious that the top 3 in terms of TCU (US, UK and Canada) also dominate here.
+                There were times when America had more than 70 of the best selling music artists active at the same time! Ever since 1975 the United Kingdom is pretty constant between 10 and 20 active artists.
+                And in the last 10 years also Canada stays constant with around 5 active artists.
+            </p>
             <div class="task-container">
                 <div id="lineplot"></div>
             </div>
-            
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            
-            <h3>Bubblechart:</h3>
-            
+            <p class="mypg">
+                This interactive lineplot shows in which year how many of the top artists were active from each country. Hovering over the legend will focus that exact timeline,
+                which helps understanding the development in the countries with a lower number of artists.
+            </p>
+
+            <h3>The longer the career, the bigger the success?</h3>
+            <p class="mypg">
+                Interestingly, it doesn't seem to work like that. Clearly there are artists whose persitence payed off like Elton John with a career of over 55 years.
+                But Drake who is the artist with the most TCU has been active for only around 20 years.
+                And The Beatles had a career of approximately 10 years and are still the artist with the highest amount of claimed sales!
+            </p>
             <div class="task-container">
                 <div id="bubblechart"></div>
             </div>
+            <p class="mypg">
+                This interactive bubblechart shows how the duration of these artists' careers correlates to the amount of TCU they created (on the Y-axis) and the total amount of sales they reached (the size of the bubbles).
+                Hovering over the countries in the legend will focus only on the artists from that particular country. Hovering over the bubbles will show the name of the artist the bubble represents.
+            </p>
 
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            
-            <h3>Barplot:</h3>
-
+            <h3>Male Domination in The Music Industry</h3>
+            <p class="mypg">
+                Like most domains also the music industry seems to be male-dominated. Only in 1960 the first carreers of female top muisc artists started.
+                Until now the percentage of women in the yearly active top muisc artists is under a third!
+            </p>
             <div class="task-container" id="barplottooltip">
                 <div id="barplot"></div>
             </div>
-            
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            
-            <h3>Sankey Diagram:</h3>
+            <p class="mypg">
+                This interactive barplot shows the distriburion of gender over the years among the top music artists. In case of bands the main artist/lead singer is used to determine the gender.
+                Noteworthy is also that this binary depiction of gender is not meant to exclude any person. There are simply no artists in the dataset that indentify as non-binary.
+                Hovering over the legend will focus on the number of that gender only. Hovering over the bars shows the exact number of active artists of that gender in that year.
+            </p>
+
+
+            <h3>The Music That We Like</h3>
+            <p class="mypg">
+                But what music is successful? What music do most people prefer to listen to? Clearly the name Pop(ular) is well reasoned as it is the genre with the highest sum of TCU that were produced in that genre.
+                But also Hip-Hop, R&B and Rock are very much influential genres.
+            </p>
             <div class="row">
-                <div class="column">
+                <div class="column" style="padding-left: 20px; padding-bottom: 0px;">
                     <b>Artists:</b><br>
                     <div id="artists">
                         <input type="radio" name="artists" value="top10" checked="checked"> Top 10<br>
@@ -87,27 +120,20 @@
                     <input type="radio" name="genres" value="both"> Both<br>
                 </div>
               </div>              
-            <div class="task-container">
+            <div class="task-container" style="padding-top: 0px;">
                 <div id="my_sankey"></div>
-            </div>
-            
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            
-                      
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p> 
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p> 
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-            <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>              
-            </div>
+            </div>            
+            <p class="mypg">
+                This interactive sankey diagram shows the realtions of the orgin of the artists, what genre they are creating and how influential countries, artists and the genres are.
+                The sizes of the nodes and relations are relative to the sums of TCU. With the radio boxes it can be choosen what data should be incorporated into the diagram.
+                Hovering over the relations shows source and target of each relation. The position of the nodes can be adapted by drag and drop to a certain extend.
+            </p>
+        </div>
         </div>
 
         <div class="footer">
             <p>Final Project for the Data Visualization course 2022/2023 at DIBRIS, UniGe.</p>
-            <p>Copyright &copy; 2022 All Rights Reserved by Emilia Kunst.</p>
+            <p>Copyright &copy; 2023 All Rights Reserved by Emilia Kunst.</p>
         </div>
 
 
