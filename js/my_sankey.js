@@ -303,7 +303,7 @@ d3.sankey = function() {
 
 // csv neu ab line 401
 
-var datapath = "../data/top10sub.csv"
+var datapath = "../data/top10main.csv"
 artistValue = "top10"
 genreValue = "sub";
 
@@ -335,7 +335,7 @@ var marginsankey = {top: 01, right: 01, bottom: 10, left: 01},
 // format variables
 var formatNumber = d3.format(",.0f"),    // zero decimal places
     format = function(d) { return formatNumber(d) + " " + units; },
-    color = d3.scaleOrdinal(d3.schemeCategory20);
+    color = d3.scaleOrdinal(d3.schemeCategory0);
 
 // append the sankeysvg object to the body of the page
 var sankeysvg = d3.select("#my_sankey")
@@ -428,10 +428,13 @@ d3.csv(datapath, function(error, data) {
   node.append("rect")
       .attr("height", function(d) { return d.dy; })
       .attr("width", sankey.nodeWidth())
-      .style("fill", function(d) { 
-      return d.color = color(d.name.replace(/ .*/, "")); })
-      .style("stroke", function(d) { 
-      return d3.rgb(d.color).darker(2); })
+      // .style("fill", function(d) { 
+      // return d.color = color(d.name.replace(/ .*/, "")); })
+      .style("fill", "#6d696a")
+      .style("stroke", "#100007")
+      .attr("stroke-width", 1.8)
+      // function(d) { 
+      // return d3.rgb(d.color).darker(2); })
     .append("title")
       .text(function(d) { 
       return d.name + "\n" + format(d.value); });
@@ -557,10 +560,9 @@ function changeData() {
     node.append("rect")
         .attr("height", function(d) { return d.dy; })
         .attr("width", sankey.nodeWidth())
-        .style("fill", function(d) { 
-        return d.color = color(d.name.replace(/ .*/, "")); })
-        .style("stroke", function(d) { 
-        return d3.rgb(d.color).darker(2); })
+        .style("fill", "#6d696a")
+        .style("stroke", "#100007")
+        .attr("stroke-width", 1.8)
       .append("title")
         .text(function(d) { 
         return d.name + "\n" + format(d.value); });
