@@ -128,9 +128,18 @@
                 The sizes of the nodes and relations are relative to the sums of TCU. With the radio boxes it can be choosen what data should be incorporated into the diagram.
                 Hovering over the relations shows source and target of each relation. The position of the nodes can be adapted by drag and drop to a certain extend.
             </p>
+            <button class="collapsible">And if you haven't had enough yet...</button>
+            <div class="collabsiblecontent">
+                <p class="mypg">
+                    ...then here you have the full extended version of the sankey diagram incorporating all the artists of the dataset!
+                    Take your time to look at it and find out about all the genres the artists produced in!
+                    Of course it doesn't all fit on one screen but hovering over the links helps.
+                </p>
+                <div class="task-container" style="padding-top: 0px;">
+                    <div id="sankeyall"></div>
+                </div>            
+            </div>
         </div>
-        </div>
-
         <div class="footer">
             <p>Final Project for the Data Visualization course 2022/2023 at DIBRIS, UniGe.</p>
             <p>Copyright &copy; 2023 All Rights Reserved by Emilia Kunst.</p>
@@ -151,12 +160,28 @@
                 header.classList.remove("sticky");
             }
             }
+
+            var coll = document.getElementsByClassName("collapsible");
+            var i;
+            
+            for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("collapseactive");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight){
+                content.style.maxHeight = null;
+                } else {
+                content.style.maxHeight = content.scrollHeight + "px";
+                } 
+            });
+            }
         </script>
         <script src="./js/worldmap.js" crossorigin="anonymous"></script>
         <script src="./js/lineplot.js" crossorigin="anonymous"></script>
         <script src="./js/bubblechart.js" crossorigin="anonymous"></script>
         <script src="./js/barplot.js" crossorigin="anonymous"></script>
         <script src="./js/my_sankey.js" crossorigin="anonymous"></script>
+        <script src="./js/sankeyall.js" crossorigin="anonymous"></script>
         <script src="./js/wordcloud.js" crossorigin="anonymous"></script>
     </body>
 </html>

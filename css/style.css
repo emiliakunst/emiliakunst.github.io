@@ -126,3 +126,45 @@ h3 {
 svg {
   padding: 0px;
 }
+
+.collapsible {
+	cursor: pointer;
+  font-family: Noto;
+	padding: 18px;
+	width: 100%;
+	border: none;
+	text-align: left;
+	outline: none;
+	font-size: 20px;
+	font-weight: bolder;
+	margin-right: 10%;
+  background-color: #d8dad3;
+  color: #100007;
+}
+
+.collapseactive, .collapsible:hover {
+	background-color: #6d696a;
+}
+
+.collapsible:after {
+	content: '\002B';
+	color: #100007;
+	font-weight: bold;
+	float: right;
+	margin-left: 5px;
+}
+
+.collapseactive:after {
+	content: "\2212";
+}
+ 
+
+.collabsiblecontent {
+	font-family: Lucida Sans Unicode;
+	padding: 0 18px;
+	text-align: justify;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+	background-color: #d8dad3;
+}
