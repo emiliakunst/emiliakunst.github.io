@@ -2,7 +2,6 @@
 
   // We create a color scale.
   var color = d3.scaleOrdinal()
-    .domain(res)
     .range(d3.schemeCategory20)
 
   // We create a force-directed dynamic graph layout.
