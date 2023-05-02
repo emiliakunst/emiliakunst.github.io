@@ -19,7 +19,7 @@
   }
 
   // We load the JSON file.
-  d3.json(out+"rest2020.json", function(error, graph) {
+  d3.json("../data/rest2020.json", function(error, graph) {
     // In this block, the file has been loaded
     // and the 'graph' object contains our graph.
 
