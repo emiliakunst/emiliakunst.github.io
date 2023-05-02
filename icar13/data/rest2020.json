@@ -1,0 +1,7456 @@
+{
+    "nodes": [
+        {
+            "name": "P. Mello",
+            "institution": "unknown",
+            "year": 1996
+        },
+        {
+            "name": "D. Ricc\u00f2",
+            "institution": "Politecnico di Milano",
+            "year": 1999
+        },
+        {
+            "name": "M. Bradeschia",
+            "institution": "unknown",
+            "year": 2002
+        },
+        {
+            "name": "M. Ferrero",
+            "institution": "Politecnico di Milano",
+            "year": 2003
+        },
+        {
+            "name": "C. Langella",
+            "institution": "Universit\u00e0 degli Studi della Campania",
+            "year": 2003
+        },
+        {
+            "name": "C. Gambardella",
+            "institution": "Universit\u00e0 degli Studi della Campania",
+            "year": 2004
+        },
+        {
+            "name": "D. Piscitelli",
+            "institution": "Universit\u00e0 degli Studi della Campania",
+            "year": 2004
+        },
+        {
+            "name": "D. Russo",
+            "institution": "Universit\u00e0 degli Studi di Palermo",
+            "year": 2004
+        },
+        {
+            "name": "M. Sironi",
+            "institution": "unknown",
+            "year": 2004
+        },
+        {
+            "name": "L. Alini",
+            "institution": "Universit\u00e0 degli Studi di Catania",
+            "year": 2005
+        },
+        {
+            "name": "A. Battisti",
+            "institution": "Universit\u00e0 degli Studi di Roma La Sapienza",
+            "year": 2005
+        },
+        {
+            "name": "I. Oberti",
+            "institution": "Politecnico di Milano",
+            "year": 2005
+        },
+        {
+            "name": "S. Russo Ermolli",
+            "institution": "Universit\u00e0 degli Studi di Napoli Federico II",
+            "year": 2005
+        },
+        {
+            "name": "G. Pasca Raymondi",
+            "institution": "unknown",
+            "year": 2005
+        },
+        {
+            "name": "D. Calabi",
+            "institution": "unknown",
+            "year": 2005
+        },
+        {
+            "name": "D. Crippa",
+            "institution": "Politecnico di Milano",
+            "year": 2005
+        },
+        {
+            "name": "B. Di Prete",
+            "institution": "unknown",
+            "year": 2005
+        },
+        {
+            "name": "G. K. Koenig",
+            "institution": "unknown",
+            "year": 2006
+        },
+        {
+            "name": "A. Natalini",
+            "institution": "unknown",
+            "year": 2006
+        },
+        {
+            "name": "E. Benelli",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2006
+        },
+        {
+            "name": "M. Canina",
+            "institution": "unknown",
+            "year": 2006
+        },
+        {
+            "name": "D. T. Newman",
+            "institution": "unknown",
+            "year": 2006
+        },
+        {
+            "name": "G. L. Trotti",
+            "institution": "unknown",
+            "year": 2006
+        },
+        {
+            "name": "E. Trivellin",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2006
+        },
+        {
+            "name": "E. Curr\u00e0",
+            "institution": "Universit\u00e0 degli Studi di Roma La Sapienza",
+            "year": 2007
+        },
+        {
+            "name": "S. Capolongo",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "L. Daglio",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "F. Rizzo",
+            "institution": "Politecnico di Milano",
+            "year": 2007
+        },
+        {
+            "name": "F. Grazzotto",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "S. Ceri",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "M. Matera",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "V. Delmad\u00e8",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "C. Cautela",
+            "institution": "Politecnico di Milano",
+            "year": 2007
+        },
+        {
+            "name": "C. Martino",
+            "institution": "Universit\u00e0 degli Studi di Roma La Sapienza",
+            "year": 2007
+        },
+        {
+            "name": "L. Giraldi",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2007
+        },
+        {
+            "name": "J. Filieri",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "F. Filippi",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "M. Ceconello",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "E. Paquet",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "A. Biamonti",
+            "institution": "Politecnico di Milano",
+            "year": 2007
+        },
+        {
+            "name": "U. Tolino",
+            "institution": "Politecnico di Bari",
+            "year": 2007
+        },
+        {
+            "name": "F. Balena Artista",
+            "institution": "unknown",
+            "year": 2007
+        },
+        {
+            "name": "P. Parlangeli",
+            "institution": "unknown",
+            "year": 2008
+        },
+        {
+            "name": "M. Ferrara",
+            "institution": "unknown",
+            "year": 2008
+        },
+        {
+            "name": "M. Cardillo",
+            "institution": "unknown",
+            "year": 2008
+        },
+        {
+            "name": "V. Cristallo",
+            "institution": "Universit\u00e0 degli Studi di Roma La Sapienza",
+            "year": 2008
+        },
+        {
+            "name": "V. Iannilli",
+            "institution": "unknown",
+            "year": 2008
+        },
+        {
+            "name": "L. Bollini",
+            "institution": "Libera Universit\u00e0 di Bolzano",
+            "year": 2008
+        },
+        {
+            "name": "L. Guerrini",
+            "institution": "Politecnico di Milano",
+            "year": 2008
+        },
+        {
+            "name": "F. Zurlo",
+            "institution": "unknown",
+            "year": 2009
+        },
+        {
+            "name": "M. Bisson",
+            "institution": "Politecnico di Milano",
+            "year": 2009
+        },
+        {
+            "name": "V. Ferraro",
+            "institution": "unknown",
+            "year": 2009
+        },
+        {
+            "name": "R. Montanari",
+            "institution": "unknown",
+            "year": 2009
+        },
+        {
+            "name": "M",
+            "institution": "unknown",
+            "year": 2009
+        },
+        {
+            "name": "Dell'amico",
+            "institution": "unknown",
+            "year": 2009
+        },
+        {
+            "name": "D. J. C. Diaz",
+            "institution": "unknown",
+            "year": 2009
+        },
+        {
+            "name": "M. Iori",
+            "institution": "unknown",
+            "year": 2009
+        },
+        {
+            "name": "G. Chiesa",
+            "institution": "Politecnico di Torino",
+            "year": 2010
+        },
+        {
+            "name": "J. Baek",
+            "institution": "unknown",
+            "year": 2010
+        },
+        {
+            "name": "E. Manzini",
+            "institution": "unknown",
+            "year": 2010
+        },
+        {
+            "name": "R. Liberti",
+            "institution": "Universit\u00e0 degli Studi della Campania",
+            "year": 2010
+        },
+        {
+            "name": "E. Guida",
+            "institution": "unknown",
+            "year": 2010
+        },
+        {
+            "name": "M. Quaggiotto",
+            "institution": "Politecnico di Milano",
+            "year": 2010
+        },
+        {
+            "name": "A. Capece",
+            "institution": "Universit\u00e0 degli Studi della Campania",
+            "year": 2010
+        },
+        {
+            "name": "L. Galluzzo",
+            "institution": "Politecnico di Milano",
+            "year": 2010
+        },
+        {
+            "name": "D. Fassi",
+            "institution": "Politecnico di Milano",
+            "year": 2010
+        },
+        {
+            "name": "F. Tango",
+            "institution": "unknown",
+            "year": 2010
+        },
+        {
+            "name": "L. Minin",
+            "institution": "unknown",
+            "year": 2010
+        },
+        {
+            "name": "F. Tesauri",
+            "institution": "unknown",
+            "year": 2010
+        },
+        {
+            "name": "V. Sapienza",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "M. Parente",
+            "institution": "Politecnico di Milano",
+            "year": 2011
+        },
+        {
+            "name": "L. Anselmi",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "E. Coccioni",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "D. Sangiorgi",
+            "institution": "Politecnico di Milano",
+            "year": 2011
+        },
+        {
+            "name": "S. Junginger",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "V. Carr",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "M. B\u00fcscher",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "R. Cooper",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "A. Meroni",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "G. Alfarano",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2011
+        },
+        {
+            "name": "E. Chiodo",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "D. Spallazzo",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "V. Arquilla",
+            "institution": "Politecnico di Milano",
+            "year": 2011
+        },
+        {
+            "name": "M. Bianchinim S. Maffei",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "A. Di Roma",
+            "institution": "Politecnico di Bari",
+            "year": 2011
+        },
+        {
+            "name": "C. Boeri",
+            "institution": "Politecnico di Milano",
+            "year": 2011
+        },
+        {
+            "name": "S. Zingale",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "M. Pastore",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "R. Falcinelli",
+            "institution": "unknown",
+            "year": 2011
+        },
+        {
+            "name": "S. Jochen",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "O. T. Ayse",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "C. Colombi",
+            "institution": "Politecnico di Milano",
+            "year": 2012
+        },
+        {
+            "name": "Sonia Fornari",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "P. Pisano",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "M. Pironti",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "A. Rieple",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "A. Iadarola",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "M. Zignego",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "A. Rinaldi",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2012
+        },
+        {
+            "name": "F. Tosi",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "A. Belli",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "G. Tucci",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "N. Ceccarelli",
+            "institution": "Universit\u00e0 degli Studi di Roma La Sapienza",
+            "year": 2012
+        },
+        {
+            "name": "A. Spagnoli",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "M. Carboni",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "D. Casciani",
+            "institution": "Politecnico di Milano",
+            "year": 2012
+        },
+        {
+            "name": "M. Rossi",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "E. Rossi",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "G. Di Bucchianico",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "M. Gregori",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "A. Marano",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": " A. Marano",
+            "institution": "unknown",
+            "year": 2012
+        },
+        {
+            "name": "A. S. Pavesi",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "D. Cant\u00f9",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "M. Simoni",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "M. Bengisu",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "P. Volpe",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "S. Palmieri",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "C. Santulli",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "S. Scuri",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "A. Toth",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "A. Lopane",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "S. Pericu",
+            "institution": "Universit\u00e0 degli Studi di Genova",
+            "year": 2013
+        },
+        {
+            "name": "V. Buchetti",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "E. Ciravegna",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "S. Scacchetti",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "D. Bloise",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "M. Ciancia",
+            "institution": "Politecnico di Milano",
+            "year": 2013
+        },
+        {
+            "name": "F. E. Guida",
+            "institution": "Politecnico di Milano",
+            "year": 2013
+        },
+        {
+            "name": "L. Gunetti",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "R. Grignolo",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "F. Protti",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "S. Fontana",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "E. Maccaferri",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "C. Giudici",
+            "institution": "unknown",
+            "year": 2013
+        },
+        {
+            "name": "M. Versaci",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "L. Martinelli",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "F. Tucci",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "M. Simonetti",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "M. Grosso",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "P. Bertola",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "F. Vacca",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "F. Rosso",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "A. L. Pisello",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "F. Cotana",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "G. Concilio",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "A. Deserti",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "A. rieple",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "M. J. De Cordoba",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "S. Day",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "M. Fattorossi",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "S. Kakee",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "K. Wetter Edman",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "H. Edvardsson Bo",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "C. Gr\u00f6nroos",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "T. Mattelm\u00e4ki",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "G. Baule",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "M. Sbordone",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "R. Veneziano",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "S. Gramegna",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "B. Imamogullari",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "F. Dal Falco",
+            "institution": "Universit\u00e0 degli Studi di Roma La Sapienza",
+            "year": 2014
+        },
+        {
+            "name": "E. Caratti",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "P. Di Nardo",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "I. Mariani",
+            "institution": "Politecnico di Milano",
+            "year": 2014
+        },
+        {
+            "name": "M. Bertolo",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "C. Olivastri",
+            "institution": "Universit\u00e0 degli Studi di Genova",
+            "year": 2014
+        },
+        {
+            "name": "A. Bosco",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "D. Dal Pal\u00f9",
+            "institution": "Politecnico di Torino",
+            "year": 2014
+        },
+        {
+            "name": "C. De Giorgi",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "C. Allione",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "C. Porfirione",
+            "institution": "Universit\u00e0 degli Studi di Genova",
+            "year": 2014
+        },
+        {
+            "name": "N. Casiddu",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": " M. Zallio",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "C. Rubini",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "P. Bolzan",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "S. Maffei",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "M. Bianchini",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "I. Caruso",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "C. Lecce",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "C. Scarpitti",
+            "institution": "Universit\u00e0 degli Studi della Campania",
+            "year": 2014
+        },
+        {
+            "name": "C. E. Standoli",
+            "institution": "Politecnico di Milano",
+            "year": 2014
+        },
+        {
+            "name": "M. Romero",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "G. Vazzoler",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "G. Andreoni",
+            "institution": "unknown",
+            "year": 2014
+        },
+        {
+            "name": "S. Cimini",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "R. Pagani",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "G. Tulliani",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "J. M. Christian",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "E. Lupo",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "D. Liberatore",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "C. Polini",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "A. D'Amico",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "E. Pizzoli",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "F. Piantamura",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "M. V. Nardi de Assis",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "A. Andriani",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "S. Lucibello",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "P. Chueng-Nainby",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "D. Xiao",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "A. Prendiville",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "Che Me",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "R.",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "A. Rebaglio",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "M. Ceconell",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "F. Piredda",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "S. Venditti",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "R. Fagnoni",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "M. Barosio",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "M.F. Ramello",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "A. Rosso",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "J. Pierini",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "S. Simonelli",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "M. A. Cecconello",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "M. Mortati",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "F. Musante",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "J. Mascitti",
+            "institution": "Universit\u00e0 degli Studi di Camerino",
+            "year": 2015
+        },
+        {
+            "name": "M. Mauri",
+            "institution": "Politecnico di Milano",
+            "year": 2015
+        },
+        {
+            "name": "T. Venturini",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "D. Ricci",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "L. Kimbell",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "A. Meunier",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "C. Sedini",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "A. Vignati",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": " F. Zurlo",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "F. C. E. Costa",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "A. Mazzola",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "S. Muschiata",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "D. Zambarbieri",
+            "institution": "unknown",
+            "year": 2015
+        },
+        {
+            "name": "L. Tenuta",
+            "institution": "Politecnico di Milano",
+            "year": 2015
+        },
+        {
+            "name": "G. Rodon\u00f2",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "S. M. Cascone",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "S. M. Porto",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "I. Lionti",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "R. Caponetto",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "G. Margani",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "D. L. Distefano",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "P. M. Laenza",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "S. Cascone",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "M. Pellegrino",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "W. Jin",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "M. Ghandehari",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "G. Simonelli",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "S.Colombo",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "G. Salvia",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "C. Bruno",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "A. De Rosa",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "A. Penati",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "B. Villari",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "A. Scarcelli",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "A.Vokshi",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "E. Gandolfi",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "J. Ackermann",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "S. Di Dio",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "D. Schillaci",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "S. Ambrosio",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "D. Navarra",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "A. Brischetto",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2016
+        },
+        {
+            "name": "M. Buono",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "E. Lonardo",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "B. Lerma",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "M. Marseglia",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2016
+        },
+        {
+            "name": "G. Camillini ",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "M. Pistolesi",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2016
+        },
+        {
+            "name": "H. Gentili",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "L. Fiorineschi",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "P. Rissone",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "F. Rotini",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "R. Gaddi",
+            "institution": "Universit\u00e0 degli Studi di Chieti-Pescara",
+            "year": 2016
+        },
+        {
+            "name": "L. Pietroni",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "P. Ciuccarelli",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "B. Balbi",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "P. Ranzo",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "L. Fois",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "M. R. Guarneri",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "P. Perego",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "M. Mazzola",
+            "institution": "unknown",
+            "year": 2016
+        },
+        {
+            "name": "G. Ballada",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Celi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "D. Zindato",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "I. Golasi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "V. L. Castaldo",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "C. Piselli",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "F. Salata",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. de Lieto Vollaro",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "L. Rampino",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "S. Colombo",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A.C. Russo",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "O. Cirillo",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "D. Calanca",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "P. Calefato",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "D. Strangio",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "L. Dimitrio",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Vaccari",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Castellani",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "R. Venanziano",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "R. Motter",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "B. Camocini",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "D. Begotti",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Devecchi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Barbieri",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "I. Vitali",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Calosci",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Licaj",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "I. Patti",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2017
+        },
+        {
+            "name": "R. Vita",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": " F. Filippi ",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "S. Tosoni",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "E. Voltaggio",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "C. Ferrari",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "S. Liistro",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Vitali ",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "F. Armato",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "T. Giuffr\u00e9",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Bonaccorsi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "S. Betti",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "G. Rateni",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "D. Esposito",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Mareseglia",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "P. Dario",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "F. Cavallo",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "S. Cerri",
+            "institution": "Universit\u00e0 degli Studi di Firenze",
+            "year": 2017
+        },
+        {
+            "name": "F. Invernizzi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "L. Actis Grosso",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "L. Shtrepi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Gasperini",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Astolfi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Actis Grande",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "E. Buiatti",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "G. E. Puglisi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "O. Houix",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "P. Susini",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "G. Lotti",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "D. Giorgi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Carulli",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Bordegoni",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "G. Colombo",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "T. Elli",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "G. Caviglia",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "G.R. Uboldi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "M. Azzi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Pini",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "C. Pentzold",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "E. Weltevrede",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "D. Laniado",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Kaltenbrunner",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "K. Borra",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "F. Celaschi",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "G. Padula",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "C. Calefato",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "C. Ferrarini",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "E. Landini",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "S.M. Tort",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "G.M.E. Quinteiro",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "V. Minenna",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "A. Cappellieri",
+            "institution": "unknown",
+            "year": 2017
+        },
+        {
+            "name": "E. Georgescu",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Georgescu",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "Z. Macri",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. M. Marino",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "V. Meita",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "R. Pana",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "H. Petran",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "P. P. Rossi",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Voica",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "A. Gagliano",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. Naboni",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "N. Timpanaro",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "F. Laureti",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Zinzi",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "G. Volpizelli",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. Ministeri",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "P. Kim",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "N. Wyatt",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "C. Cecere",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "H. Coch",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Morganti",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "A. Salvati",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Russo",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "S. Mariani",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "S. Mannucci",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Zinzone",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "O. Marlow",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. Yu",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "C. Becchimanzi",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. L. Galbiati",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Mattei",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. Alberello Conti",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. Trevellin",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "I. Bedeschi",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "D",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "Schillaci",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "N. Morelli",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. Lissandrello",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. La Gennusa",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "G. Peri",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "G. Rizzo",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "I. Vinci",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "F. Tosi ",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Zannoni",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. La Maida",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. Laudante",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Bozzola",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "P. Corraini",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "S. Bellucci",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "F. S. Frillici",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Tomassini ",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "M. Pirola",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "C. Fauda ",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "F. Dell'Aglio",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "E. Migliore",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "R. Sironi",
+            "institution": "unknown",
+            "year": 2018
+        },
+        {
+            "name": "S. Persiani",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Crespi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "B. L. Stewart",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Pizzolato",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "S. Andreana Alberti di Catenajo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Del Curto",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "F. Guarrasi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A. Ianniello",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "C. Dell'Era",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Gastaldi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A. Caccamo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "E. Duarte",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "D. Gambera",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "J. Smith",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Maini",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "F. Morelli",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Mariani",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A. Mazzanti",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "V. Penati",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "V. Linfante",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "V. La Tilla",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "V. Perricone",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "F. Lima",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Patricio",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Prestes Joly",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "C. Favini",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "J. Texeira",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Musio Sale",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Pennati",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "E. Nardone",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "J. Postell",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Sciannam\u00e8",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "D. Meloni",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Angelini",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "O. A. Khaled",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "E. Mugellini",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Caon",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "G. Gentile",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "G. Cesaro",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "G. Cosentino",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Gelsomini",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "G. Carella",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Tamburello",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "I. Rifino",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Ventrella",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "R. Me",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "R. Sulaiman",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A. Kassim",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "K. Kamarudin",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "H. Ali",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "I. Saion",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "T. Livio",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "I. Marian",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "I. Patti ",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. M. Jensen",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "J. Weis\u00a0",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Ronchi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Varisco",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": " S. Parisi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Stepanovic",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Invernizzi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "E. Cianfanelli",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Tufarelli",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "B. Terenzi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "G. Goretti",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "S. Follesa",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Petrini",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "S. Tulumello",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "D. Schillaci ",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Mastrolonardo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "G. Sala",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "G. Spataro",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "B. Caroleo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A. Vesco",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "I. D\u2019Hespeel",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "V. Gizzi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "S. Gasparotto",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "C. Chivaran",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "S. Del Puglia",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "V. Trapani",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "P. Lacey",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "E. Iacono",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "E. Micheli",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "F. Burlando",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "V. M. Iannilli",
+            "institution": "Politecnico di Milano",
+            "year": 2019
+        },
+        {
+            "name": "A. V. Penati ",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "F. Gaetani",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "C. Dastoli",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "B. Del Curto",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "D. Galloppo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A. Briones",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "B. Gobbo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "D. Balsamo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "P. Bajardi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A. Panisson",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A.Castellano",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "P. Barcarolo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "M. Di Nicolantonio",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "J. Lagatta",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "S. E. Lenzi",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "N. F. Lopomo",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "G. Andreoni ",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "C. E. Standoli ",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "A. V. Penati",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "S. Testa",
+            "institution": "unknown",
+            "year": 2019
+        },
+        {
+            "name": "L. Maffei",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "M. Masullo",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "P. Lanotte",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "E. Westerduin",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "J. Chen",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "M. Gausa Navarro",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "N. Canessa",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "S. Pizzocaro",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "C. Tonelli",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "C. Standoli",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "V. Bucchetti",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "M. Di Nallo",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "M. Borsotti",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": " M. Bianchini",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "V. Maselli",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "M. Carfagni",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "R. Furferi",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "L. Governi",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "Y. Borgianni",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "L. Maccioni",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "N. Becattini",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "A. Deli",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "L. Forzoni",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "R. De Luca",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "M. Terraroli ",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "F. Spelta ",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "N. Henchoz",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "A. Vellesalu",
+            "institution": "unknown",
+            "year": 2020
+        },
+        {
+            "name": "C. Colombi ",
+            "institution": "unknown",
+            "year": 2020
+        }
+    ],
+    "links": [
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "M. J. De Cordoba"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "S. Day"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "L. Gunetti"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "A. Andriani"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "E. Duarte"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "D. Gambera"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "A. Penati"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "S. Pizzocaro"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "C. Tonelli"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "C. Standoli"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "V. Iannilli"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "A. Rebaglio"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "G. Andreoni"
+        },
+        {
+            "source": "D. Ricc\u00f2",
+            "target": "E. Caratti"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "G. K. Koenig"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "A. Natalini"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "Sonia Fornari"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "F. Rosso"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "A. L. Pisello"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "F. Cotana"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "W. Jin"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "M. Ghandehari"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "I. Golasi"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "V. L. Castaldo"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "C. Piselli"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "F. Salata"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "A. de Lieto Vollaro"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "S. Mariani"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "S. Mannucci"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "M. Morganti"
+        },
+        {
+            "source": "M. Ferrero",
+            "target": "C. Cecere"
+        },
+        {
+            "source": "C. Langella",
+            "target": "A. Iadarola"
+        },
+        {
+            "source": "C. Langella",
+            "target": "C. Santulli"
+        },
+        {
+            "source": "C. Langella",
+            "target": "V. La Tilla"
+        },
+        {
+            "source": "C. Langella",
+            "target": "V. Perricone"
+        },
+        {
+            "source": "C. Gambardella",
+            "target": "S. Jochen"
+        },
+        {
+            "source": "C. Gambardella",
+            "target": "O. T. Ayse"
+        },
+        {
+            "source": "D. Russo",
+            "target": "G. Pasca Raymondi"
+        },
+        {
+            "source": "D. Russo",
+            "target": "P. Volpe"
+        },
+        {
+            "source": "D. Russo",
+            "target": "J. Smith"
+        },
+        {
+            "source": "M. Sironi",
+            "target": "N. Ceccarelli"
+        },
+        {
+            "source": "M. Sironi",
+            "target": "A. Calosci"
+        },
+        {
+            "source": "M. Sironi",
+            "target": "R. Sironi"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "L. Martinelli"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "F. Tucci"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "S. Cimini"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "F. Laureti"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "M. Zinzi"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "G. Volpizelli"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "E. Ministeri"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "S. Persiani"
+        },
+        {
+            "source": "A. Battisti",
+            "target": "M. Crespi"
+        },
+        {
+            "source": "I. Oberti",
+            "target": "S. Capolongo"
+        },
+        {
+            "source": "I. Oberti",
+            "target": "L. Daglio"
+        },
+        {
+            "source": "I. Oberti",
+            "target": "A. S. Pavesi"
+        },
+        {
+            "source": "I. Oberti",
+            "target": "F. Piantamura"
+        },
+        {
+            "source": "D. Calabi",
+            "target": "M. Bisson"
+        },
+        {
+            "source": "D. Calabi",
+            "target": "M. Quaggiotto"
+        },
+        {
+            "source": "D. Calabi",
+            "target": "E. Chiodo"
+        },
+        {
+            "source": "D. Calabi",
+            "target": "S. Scuri"
+        },
+        {
+            "source": "D. Calabi",
+            "target": "G. Baule"
+        },
+        {
+            "source": "D. Calabi",
+            "target": "C. Boeri"
+        },
+        {
+            "source": "D. Calabi",
+            "target": "E. Nardone"
+        },
+        {
+            "source": "D. Crippa",
+            "target": "B. Di Prete"
+        },
+        {
+            "source": "D. Crippa",
+            "target": "E. Lonardo"
+        },
+        {
+            "source": "D. Crippa",
+            "target": "F. Invernizzi"
+        },
+        {
+            "source": "B. Di Prete",
+            "target": "L. Galluzzo"
+        },
+        {
+            "source": "B. Di Prete",
+            "target": "E. Lonardo"
+        },
+        {
+            "source": "G. K. Koenig",
+            "target": "A. Natalini"
+        },
+        {
+            "source": "E. Benelli",
+            "target": "L. Giraldi"
+        },
+        {
+            "source": "E. Benelli",
+            "target": "J. Filieri"
+        },
+        {
+            "source": "E. Benelli",
+            "target": "F. Filippi"
+        },
+        {
+            "source": "E. Benelli",
+            "target": "I. Patti"
+        },
+        {
+            "source": "E. Benelli",
+            "target": "R. Vita"
+        },
+        {
+            "source": "E. Benelli",
+            "target": " F. Filippi "
+        },
+        {
+            "source": "E. Benelli",
+            "target": "M. Maini"
+        },
+        {
+            "source": "E. Benelli",
+            "target": "F. Morelli"
+        },
+        {
+            "source": "M. Canina",
+            "target": "D. T. Newman"
+        },
+        {
+            "source": "M. Canina",
+            "target": "G. L. Trotti"
+        },
+        {
+            "source": "M. Canina",
+            "target": "V. Ferraro"
+        },
+        {
+            "source": "M. Canina",
+            "target": "L. Anselmi"
+        },
+        {
+            "source": "M. Canina",
+            "target": "E. Coccioni"
+        },
+        {
+            "source": "M. Canina",
+            "target": "S. Palmieri"
+        },
+        {
+            "source": "M. Canina",
+            "target": "M. Fattorossi"
+        },
+        {
+            "source": "M. Canina",
+            "target": "G. Salvia"
+        },
+        {
+            "source": "M. Canina",
+            "target": "C. Bruno"
+        },
+        {
+            "source": "D. T. Newman",
+            "target": "G. L. Trotti"
+        },
+        {
+            "source": "E. Trivellin",
+            "target": "M. Marseglia"
+        },
+        {
+            "source": "E. Trivellin",
+            "target": "I. Bedeschi"
+        },
+        {
+            "source": "E. Trivellin",
+            "target": "E. Cianfanelli"
+        },
+        {
+            "source": "E. Trivellin",
+            "target": "M. Tufarelli"
+        },
+        {
+            "source": "E. Trivellin",
+            "target": "B. Terenzi"
+        },
+        {
+            "source": "E. Trivellin",
+            "target": "G. Goretti"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "D. Liberatore"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "C. Polini"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "A. D'Amico"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "E. Pizzoli"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "C. Cecere"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "H. Coch"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "M. Morganti"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "A. Salvati"
+        },
+        {
+            "source": "E. Curr\u00e0",
+            "target": "M. Russo"
+        },
+        {
+            "source": "S. Capolongo",
+            "target": "L. Daglio"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "F. Grazzotto"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "S. Ceri"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "M. Matera"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "V. Delmad\u00e8"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "P. Parlangeli"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "C. Cautela"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "F. Zurlo"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "J. Baek"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "E. Manzini"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "D. Cant\u00f9"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "G. Concilio"
+        },
+        {
+            "source": "F. Rizzo",
+            "target": "A. Deserti"
+        },
+        {
+            "source": "S. Ceri",
+            "target": "M. Matera"
+        },
+        {
+            "source": "S. Ceri",
+            "target": "V. Delmad\u00e8"
+        },
+        {
+            "source": "M. Matera",
+            "target": "V. Delmad\u00e8"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "F. Zurlo"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "P. Pisano"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "M. Pironti"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "A. Rieple"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "M. Simoni"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "A. rieple"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "S.Colombo"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "L. Rampino"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "S. Colombo"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "G. Simonelli"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "M. Mortati"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "C. Dell'Era"
+        },
+        {
+            "source": "C. Cautela",
+            "target": "L. Gastaldi"
+        },
+        {
+            "source": "C. Martino",
+            "target": "I. Caruso"
+        },
+        {
+            "source": "C. Martino",
+            "target": "V. Cristallo"
+        },
+        {
+            "source": "C. Martino",
+            "target": "L. Bollini"
+        },
+        {
+            "source": "C. Martino",
+            "target": "A. Caccamo"
+        },
+        {
+            "source": "C. Martino",
+            "target": "S. Lucibello"
+        },
+        {
+            "source": "C. Martino",
+            "target": "V. Maselli"
+        },
+        {
+            "source": "L. Giraldi",
+            "target": "J. Filieri"
+        },
+        {
+            "source": "L. Giraldi",
+            "target": "F. Filippi"
+        },
+        {
+            "source": "L. Giraldi",
+            "target": "I. Patti"
+        },
+        {
+            "source": "L. Giraldi",
+            "target": "R. Vita"
+        },
+        {
+            "source": "L. Giraldi",
+            "target": " F. Filippi "
+        },
+        {
+            "source": "L. Giraldi",
+            "target": "M. Maini"
+        },
+        {
+            "source": "L. Giraldi",
+            "target": "F. Morelli"
+        },
+        {
+            "source": "L. Giraldi",
+            "target": "D. Meloni"
+        },
+        {
+            "source": "J. Filieri",
+            "target": "F. Filippi"
+        },
+        {
+            "source": "J. Filieri",
+            "target": "I. Patti"
+        },
+        {
+            "source": "J. Filieri",
+            "target": "R. Vita"
+        },
+        {
+            "source": "J. Filieri",
+            "target": " F. Filippi "
+        },
+        {
+            "source": "M. Ceconello",
+            "target": "E. Paquet"
+        },
+        {
+            "source": "M. Ceconello",
+            "target": "D. Spallazzo"
+        },
+        {
+            "source": "M. Ceconello",
+            "target": "A. Toth"
+        },
+        {
+            "source": "M. Ceconello",
+            "target": "A. Lopane"
+        },
+        {
+            "source": "M. Ceconello",
+            "target": "A. Spagnoli"
+        },
+        {
+            "source": "M. Ceconello",
+            "target": "U. Tolino"
+        },
+        {
+            "source": "M. Ceconello",
+            "target": "J. Postell"
+        },
+        {
+            "source": "M. Ceconello",
+            "target": "M. Sciannam\u00e8"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "S. Gramegna"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "B. Imamogullari"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "Che Me"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "R."
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "L. Guerrini"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "R. Me"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "V. Ferraro"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "R. Sulaiman"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "A. Kassim"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "K. Kamarudin"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "H. Ali"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "I. Saion"
+        },
+        {
+            "source": "A. Biamonti",
+            "target": "J. Chen"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "V. Buchetti"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "E. Ciravegna"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "G. Baule"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "E. Caratti"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "A. Spagnoli"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "D. Spallazzo"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "A. Rebaglio"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "M. Ceconell"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "M. A. Cecconello"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "V. Arquilla"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "I. Vitali"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "I. Mariani"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "T. Livio"
+        },
+        {
+            "source": "U. Tolino",
+            "target": "I. Marian"
+        },
+        {
+            "source": "F. Balena Artista",
+            "target": "M. Carboni"
+        },
+        {
+            "source": "F. Balena Artista",
+            "target": "C. Rubini"
+        },
+        {
+            "source": "M. Ferrara",
+            "target": "M. Cardillo"
+        },
+        {
+            "source": "M. Ferrara",
+            "target": "M. Bengisu"
+        },
+        {
+            "source": "M. Ferrara",
+            "target": "C. Lecce"
+        },
+        {
+            "source": "M. Ferrara",
+            "target": "C. E. Standoli"
+        },
+        {
+            "source": "M. Ferrara",
+            "target": "M. R. Guarneri"
+        },
+        {
+            "source": "M. Ferrara",
+            "target": "G. Andreoni"
+        },
+        {
+            "source": "M. Ferrara",
+            "target": "A.C. Russo"
+        },
+        {
+            "source": "V. Cristallo",
+            "target": "E. Guida"
+        },
+        {
+            "source": "V. Cristallo",
+            "target": "S. Lucibello"
+        },
+        {
+            "source": "V. Cristallo",
+            "target": "I. Caruso"
+        },
+        {
+            "source": "V. Cristallo",
+            "target": "M. Mariani"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "F. Vacca"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "A. Penati"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "P. Bertola"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "C. Colombi"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "A. Spagnoli"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "V. Penati"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "V. Linfante"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "S. Pizzocaro"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "C. Tonelli"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "C. Standoli"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "A. Rebaglio"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "G. Andreoni"
+        },
+        {
+            "source": "V. Iannilli",
+            "target": "E. Caratti"
+        },
+        {
+            "source": "L. Bollini",
+            "target": "D. Begotti"
+        },
+        {
+            "source": "L. Bollini",
+            "target": "A. Caccamo"
+        },
+        {
+            "source": "L. Bollini",
+            "target": "M. Pennati"
+        },
+        {
+            "source": "L. Guerrini",
+            "target": "A. Devecchi"
+        },
+        {
+            "source": "F. Zurlo",
+            "target": "M. Simoni"
+        },
+        {
+            "source": "F. Zurlo",
+            "target": "C. Sedini"
+        },
+        {
+            "source": "F. Zurlo",
+            "target": "A. Vignati"
+        },
+        {
+            "source": "F. Zurlo",
+            "target": "V. Arquilla"
+        },
+        {
+            "source": "F. Zurlo",
+            "target": "G. Carella"
+        },
+        {
+            "source": "F. Zurlo",
+            "target": "M. Tamburello"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "V. Arquilla"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "M. Zinzone"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "C. Boeri"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "S. Palmieri"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "L. Pizzolato"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "S. Andreana Alberti di Catenajo"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "L. Del Curto"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "F. Guarrasi"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "A. Ianniello"
+        },
+        {
+            "source": "M. Bisson",
+            "target": "E. Nardone"
+        },
+        {
+            "source": "V. Ferraro",
+            "target": "R. Me"
+        },
+        {
+            "source": "V. Ferraro",
+            "target": "R. Sulaiman"
+        },
+        {
+            "source": "V. Ferraro",
+            "target": "A. Kassim"
+        },
+        {
+            "source": "V. Ferraro",
+            "target": "K. Kamarudin"
+        },
+        {
+            "source": "V. Ferraro",
+            "target": "H. Ali"
+        },
+        {
+            "source": "V. Ferraro",
+            "target": "I. Saion"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "M"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "Dell'amico"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "D. J. C. Diaz"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "M. Iori"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "F. Tango"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "L. Minin"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "F. Tesauri"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "F. Protti"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "S. Fontana"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "E. Maccaferri"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "C. Giudici"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "B. Balbi"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "F. Celaschi"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "G. Padula"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "C. Calefato"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "C. Ferrarini"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "E. Landini"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "S.M. Tort"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "G.M.E. Quinteiro"
+        },
+        {
+            "source": "R. Montanari",
+            "target": "A.Castellano"
+        },
+        {
+            "source": "M",
+            "target": "Dell'amico"
+        },
+        {
+            "source": "M",
+            "target": "D. J. C. Diaz"
+        },
+        {
+            "source": "M",
+            "target": "M. Iori"
+        },
+        {
+            "source": "Dell'amico",
+            "target": "D. J. C. Diaz"
+        },
+        {
+            "source": "Dell'amico",
+            "target": "M. Iori"
+        },
+        {
+            "source": "D. J. C. Diaz",
+            "target": "M. Iori"
+        },
+        {
+            "source": "G. Chiesa",
+            "target": "M. Simonetti"
+        },
+        {
+            "source": "G. Chiesa",
+            "target": "M. Grosso"
+        },
+        {
+            "source": "G. Chiesa",
+            "target": "R. Pagani"
+        },
+        {
+            "source": "G. Chiesa",
+            "target": "G. Tulliani"
+        },
+        {
+            "source": "G. Chiesa",
+            "target": "J. M. Christian"
+        },
+        {
+            "source": "G. Chiesa",
+            "target": "M. Pellegrino"
+        },
+        {
+            "source": "G. Chiesa",
+            "target": "G. Ballada"
+        },
+        {
+            "source": "J. Baek",
+            "target": "E. Manzini"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "O. Cirillo"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "D. Calanca"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "P. Calefato"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "D. Strangio"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "L. Dimitrio"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "A. Vaccari"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "A. Castellani"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "R. Venanziano"
+        },
+        {
+            "source": "R. Liberti",
+            "target": "R. Gaddi"
+        },
+        {
+            "source": "M. Quaggiotto",
+            "target": "E. Chiodo"
+        },
+        {
+            "source": "M. Quaggiotto",
+            "target": "S. Scacchetti"
+        },
+        {
+            "source": "M. Quaggiotto",
+            "target": "D. Bloise"
+        },
+        {
+            "source": "M. Quaggiotto",
+            "target": "G. Baule"
+        },
+        {
+            "source": "M. Quaggiotto",
+            "target": "M. M. Jensen"
+        },
+        {
+            "source": "M. Quaggiotto",
+            "target": "J. Weis\u00a0"
+        },
+        {
+            "source": "A. Capece",
+            "target": "M. Buono"
+        },
+        {
+            "source": "A. Capece",
+            "target": "E. Laudante"
+        },
+        {
+            "source": "A. Capece",
+            "target": "C. Chivaran"
+        },
+        {
+            "source": "L. Galluzzo",
+            "target": "D. Fassi"
+        },
+        {
+            "source": "L. Galluzzo",
+            "target": "A. De Rosa"
+        },
+        {
+            "source": "L. Galluzzo",
+            "target": "O. Marlow"
+        },
+        {
+            "source": "L. Galluzzo",
+            "target": "S. Del Puglia"
+        },
+        {
+            "source": "L. Galluzzo",
+            "target": "V. Trapani"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "P. Chueng-Nainby"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "D. Xiao"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "A. De Rosa"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "C. Sedini"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "R. Motter"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "A. Rebaglio"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "B. Camocini"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "A. Meroni"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "O. Marlow"
+        },
+        {
+            "source": "D. Fassi",
+            "target": "A. Mazzanti"
+        },
+        {
+            "source": "F. Tango",
+            "target": "L. Minin"
+        },
+        {
+            "source": "F. Tango",
+            "target": "F. Tesauri"
+        },
+        {
+            "source": "F. Tango",
+            "target": "C. Calefato"
+        },
+        {
+            "source": "F. Tango",
+            "target": "C. Ferrarini"
+        },
+        {
+            "source": "F. Tango",
+            "target": "E. Landini"
+        },
+        {
+            "source": "F. Tango",
+            "target": "S.M. Tort"
+        },
+        {
+            "source": "F. Tango",
+            "target": "G.M.E. Quinteiro"
+        },
+        {
+            "source": "L. Minin",
+            "target": "F. Tesauri"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "M. Versaci"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "G. Rodon\u00f2"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "S. M. Cascone"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "S. M. Porto"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "I. Lionti"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "R. Caponetto"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "G. Margani"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "D. L. Distefano"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "P. M. Laenza"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "S. Cascone"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "E. Georgescu"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "M. Georgescu"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "Z. Macri"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "E. M. Marino"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "V. Meita"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "R. Pana"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "H. Petran"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "M. Voica"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "A. Gagliano"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "E. Naboni"
+        },
+        {
+            "source": "V. Sapienza",
+            "target": "N. Timpanaro"
+        },
+        {
+            "source": "M. Parente",
+            "target": "M. V. Nardi de Assis"
+        },
+        {
+            "source": "M. Parente",
+            "target": "C. Sedini"
+        },
+        {
+            "source": "M. Parente",
+            "target": "G. Simonelli"
+        },
+        {
+            "source": "M. Parente",
+            "target": "E. Lupo"
+        },
+        {
+            "source": "L. Anselmi",
+            "target": "E. Coccioni"
+        },
+        {
+            "source": "L. Anselmi",
+            "target": "S. Palmieri"
+        },
+        {
+            "source": "L. Anselmi",
+            "target": "M. Fattorossi"
+        },
+        {
+            "source": "L. Anselmi",
+            "target": "C. Bruno"
+        },
+        {
+            "source": "E. Coccioni",
+            "target": "S. Palmieri"
+        },
+        {
+            "source": "E. Coccioni",
+            "target": "M. Fattorossi"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "S. Junginger"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "V. Carr"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "M. B\u00fcscher"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "R. Cooper"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "A. Meroni"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "S. Kakee"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "K. Wetter Edman"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "H. Edvardsson Bo"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "C. Gr\u00f6nroos"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "T. Mattelm\u00e4ki"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "A. Prendiville"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "E. Yu"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "F. Lima"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "L. Patricio"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "M. Prestes Joly"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "C. Favini"
+        },
+        {
+            "source": "D. Sangiorgi",
+            "target": "J. Texeira"
+        },
+        {
+            "source": "V. Carr",
+            "target": "M. B\u00fcscher"
+        },
+        {
+            "source": "V. Carr",
+            "target": "R. Cooper"
+        },
+        {
+            "source": "M. B\u00fcscher",
+            "target": "R. Cooper"
+        },
+        {
+            "source": "A. Meroni",
+            "target": "B. Camocini"
+        },
+        {
+            "source": "E. Chiodo",
+            "target": "S. Scuri"
+        },
+        {
+            "source": "D. Spallazzo",
+            "target": "A. Toth"
+        },
+        {
+            "source": "D. Spallazzo",
+            "target": "A. Lopane"
+        },
+        {
+            "source": "D. Spallazzo",
+            "target": "A. Spagnoli"
+        },
+        {
+            "source": "D. Spallazzo",
+            "target": "M. Ceconell"
+        },
+        {
+            "source": "D. Spallazzo",
+            "target": "M. A. Cecconello"
+        },
+        {
+            "source": "D. Spallazzo",
+            "target": "I. Mariani"
+        },
+        {
+            "source": "D. Spallazzo",
+            "target": "M. Sciannam\u00e8"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "M. Bianchinim S. Maffei"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "B. Villari"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "M. Mortati"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "S. Maffei"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "A. Barbieri"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "I. Vitali"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "M. Zinzone"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "G. Cosentino"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "M. Gelsomini"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "G. Carella"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "M. Tamburello"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "I. Rifino"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "P. Bolzan"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "M. Ventrella"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "P. Lanotte"
+        },
+        {
+            "source": "V. Arquilla",
+            "target": "E. Westerduin"
+        },
+        {
+            "source": "A. Di Roma",
+            "target": "A. Scarcelli"
+        },
+        {
+            "source": "A. Di Roma",
+            "target": "P. Ranzo"
+        },
+        {
+            "source": "A. Di Roma",
+            "target": "M. Sbordone"
+        },
+        {
+            "source": "A. Di Roma",
+            "target": "V. Minenna"
+        },
+        {
+            "source": "C. Boeri",
+            "target": "S. Zingale"
+        },
+        {
+            "source": "C. Boeri",
+            "target": "M. Pastore"
+        },
+        {
+            "source": "S. Zingale",
+            "target": "M. Pastore"
+        },
+        {
+            "source": "S. Jochen",
+            "target": "O. T. Ayse"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "P. Bertola"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "F. Vacca"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "E. Lupo"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "M. Celi"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "D. Zindato"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "P. Kim"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "N. Wyatt"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "A. Penati"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "B. L. Stewart"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "L. Tenuta"
+        },
+        {
+            "source": "C. Colombi",
+            "target": "A. Vellesalu"
+        },
+        {
+            "source": "P. Pisano",
+            "target": "M. Pironti"
+        },
+        {
+            "source": "P. Pisano",
+            "target": "A. Rieple"
+        },
+        {
+            "source": "P. Pisano",
+            "target": "A. rieple"
+        },
+        {
+            "source": "M. Pironti",
+            "target": "A. Rieple"
+        },
+        {
+            "source": "M. Pironti",
+            "target": "A. rieple"
+        },
+        {
+            "source": "M. Zignego",
+            "target": "M. Musio Sale"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "F. Tosi"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "A. Belli"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "G. Tucci"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "C. Becchimanzi"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "A. Brischetto"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "L. Angelini"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "O. A. Khaled"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "E. Mugellini"
+        },
+        {
+            "source": "A. Rinaldi",
+            "target": "M. Caon"
+        },
+        {
+            "source": "F. Tosi",
+            "target": "A. Belli"
+        },
+        {
+            "source": "F. Tosi",
+            "target": "G. Tucci"
+        },
+        {
+            "source": "F. Tosi",
+            "target": "C. Becchimanzi"
+        },
+        {
+            "source": "F. Tosi",
+            "target": "I. Patti"
+        },
+        {
+            "source": "F. Tosi",
+            "target": "A. Brischetto"
+        },
+        {
+            "source": "F. Tosi",
+            "target": "M. Pistolesi"
+        },
+        {
+            "source": "A. Belli",
+            "target": "G. Tucci"
+        },
+        {
+            "source": "G. Tucci",
+            "target": "S. Pericu"
+        },
+        {
+            "source": "G. Tucci",
+            "target": "M. Gausa Navarro"
+        },
+        {
+            "source": "G. Tucci",
+            "target": "N. Canessa"
+        },
+        {
+            "source": "N. Ceccarelli",
+            "target": "A. Calosci"
+        },
+        {
+            "source": "A. Spagnoli",
+            "target": "M. Ceconell"
+        },
+        {
+            "source": "A. Spagnoli",
+            "target": "M. A. Cecconello"
+        },
+        {
+            "source": "A. Spagnoli",
+            "target": "V. Penati"
+        },
+        {
+            "source": "A. Spagnoli",
+            "target": "V. Linfante"
+        },
+        {
+            "source": "A. Spagnoli",
+            "target": "M. Celi"
+        },
+        {
+            "source": "A. Spagnoli",
+            "target": "V. M. Iannilli"
+        },
+        {
+            "source": "A. Spagnoli",
+            "target": "A. V. Penati "
+        },
+        {
+            "source": "A. Spagnoli",
+            "target": "M. Borsotti"
+        },
+        {
+            "source": "D. Casciani",
+            "target": "M. Rossi"
+        },
+        {
+            "source": "D. Casciani",
+            "target": "F. Musante"
+        },
+        {
+            "source": "D. Casciani",
+            "target": "H. Gentili"
+        },
+        {
+            "source": "D. Casciani",
+            "target": "P. Bolzan"
+        },
+        {
+            "source": "D. Casciani",
+            "target": "C. E. Standoli"
+        },
+        {
+            "source": "D. Casciani",
+            "target": "M. Celi"
+        },
+        {
+            "source": "M. Rossi",
+            "target": "F. Musante"
+        },
+        {
+            "source": "E. Rossi",
+            "target": "G. Di Bucchianico"
+        },
+        {
+            "source": "E. Rossi",
+            "target": "M. Gregori"
+        },
+        {
+            "source": "E. Rossi",
+            "target": "A. Marano"
+        },
+        {
+            "source": "E. Rossi",
+            "target": " A. Marano"
+        },
+        {
+            "source": "E. Rossi",
+            "target": "P. Barcarolo"
+        },
+        {
+            "source": "E. Rossi",
+            "target": "M. Di Nicolantonio"
+        },
+        {
+            "source": "E. Rossi",
+            "target": "J. Lagatta"
+        },
+        {
+            "source": "E. Rossi",
+            "target": "A. Deli"
+        },
+        {
+            "source": "G. Di Bucchianico",
+            "target": "M. Gregori"
+        },
+        {
+            "source": "G. Di Bucchianico",
+            "target": "A. Marano"
+        },
+        {
+            "source": "G. Di Bucchianico",
+            "target": " A. Marano"
+        },
+        {
+            "source": "A. Marano",
+            "target": "M. Di Nicolantonio"
+        },
+        {
+            "source": "A. Marano",
+            "target": "A. Deli"
+        },
+        {
+            "source": "M. Simoni",
+            "target": "S.Colombo"
+        },
+        {
+            "source": "S. Palmieri",
+            "target": "L. Pizzolato"
+        },
+        {
+            "source": "S. Palmieri",
+            "target": "S. Andreana Alberti di Catenajo"
+        },
+        {
+            "source": "S. Palmieri",
+            "target": "A. Ianniello"
+        },
+        {
+            "source": "S. Scuri",
+            "target": "G. Baule"
+        },
+        {
+            "source": "S. Pericu",
+            "target": "C. Olivastri"
+        },
+        {
+            "source": "S. Pericu",
+            "target": "R. Fagnoni"
+        },
+        {
+            "source": "S. Pericu",
+            "target": "A. Licaj"
+        },
+        {
+            "source": "S. Pericu",
+            "target": "M. Gausa Navarro"
+        },
+        {
+            "source": "S. Pericu",
+            "target": "N. Canessa"
+        },
+        {
+            "source": "V. Buchetti",
+            "target": "E. Ciravegna"
+        },
+        {
+            "source": "V. Buchetti",
+            "target": "G. Baule"
+        },
+        {
+            "source": "V. Buchetti",
+            "target": "E. Caratti"
+        },
+        {
+            "source": "E. Ciravegna",
+            "target": "E. Caratti"
+        },
+        {
+            "source": "E. Ciravegna",
+            "target": "A. Rebaglio"
+        },
+        {
+            "source": "S. Scacchetti",
+            "target": "D. Bloise"
+        },
+        {
+            "source": "M. Ciancia",
+            "target": "F. Piredda"
+        },
+        {
+            "source": "M. Ciancia",
+            "target": "S. Venditti"
+        },
+        {
+            "source": "M. Ciancia",
+            "target": "S. Tosoni"
+        },
+        {
+            "source": "M. Ciancia",
+            "target": "M. L. Galbiati"
+        },
+        {
+            "source": "M. Ciancia",
+            "target": "M. Mattei"
+        },
+        {
+            "source": "M. Ciancia",
+            "target": "M. Ronchi"
+        },
+        {
+            "source": "M. Ciancia",
+            "target": "I. Mariani"
+        },
+        {
+            "source": "F. E. Guida",
+            "target": "L. Gunetti"
+        },
+        {
+            "source": "F. E. Guida",
+            "target": "E. Voltaggio"
+        },
+        {
+            "source": "F. E. Guida",
+            "target": "C. Ferrari"
+        },
+        {
+            "source": "F. E. Guida",
+            "target": "S. Liistro"
+        },
+        {
+            "source": "F. E. Guida",
+            "target": "M. Vitali "
+        },
+        {
+            "source": "L. Gunetti",
+            "target": "A. Andriani"
+        },
+        {
+            "source": "R. Grignolo",
+            "target": "M. Barosio"
+        },
+        {
+            "source": "R. Grignolo",
+            "target": "M.F. Ramello"
+        },
+        {
+            "source": "R. Grignolo",
+            "target": "A. Rosso"
+        },
+        {
+            "source": "R. Grignolo",
+            "target": "M. Di Nallo"
+        },
+        {
+            "source": "F. Protti",
+            "target": "S. Fontana"
+        },
+        {
+            "source": "F. Protti",
+            "target": "E. Maccaferri"
+        },
+        {
+            "source": "F. Protti",
+            "target": "C. Giudici"
+        },
+        {
+            "source": "F. Protti",
+            "target": "B. Balbi"
+        },
+        {
+            "source": "S. Fontana",
+            "target": "E. Maccaferri"
+        },
+        {
+            "source": "S. Fontana",
+            "target": "C. Giudici"
+        },
+        {
+            "source": "E. Maccaferri",
+            "target": "C. Giudici"
+        },
+        {
+            "source": "M. Simonetti",
+            "target": "M. Grosso"
+        },
+        {
+            "source": "M. Simonetti",
+            "target": "M. Pellegrino"
+        },
+        {
+            "source": "M. Simonetti",
+            "target": "G. Ballada"
+        },
+        {
+            "source": "P. Bertola",
+            "target": "F. Vacca"
+        },
+        {
+            "source": "P. Bertola",
+            "target": "A. Penati"
+        },
+        {
+            "source": "F. Vacca",
+            "target": "A. Penati"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "A. L. Pisello"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "F. Cotana"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "W. Jin"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "M. Ghandehari"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "I. Golasi"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "V. L. Castaldo"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "C. Piselli"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "F. Salata"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "A. de Lieto Vollaro"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "S. Mariani"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "S. Mannucci"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "M. Morganti"
+        },
+        {
+            "source": "F. Rosso",
+            "target": "C. Cecere"
+        },
+        {
+            "source": "A. L. Pisello",
+            "target": "F. Cotana"
+        },
+        {
+            "source": "A. L. Pisello",
+            "target": "W. Jin"
+        },
+        {
+            "source": "A. L. Pisello",
+            "target": "M. Ghandehari"
+        },
+        {
+            "source": "A. L. Pisello",
+            "target": "I. Golasi"
+        },
+        {
+            "source": "A. L. Pisello",
+            "target": "V. L. Castaldo"
+        },
+        {
+            "source": "A. L. Pisello",
+            "target": "C. Piselli"
+        },
+        {
+            "source": "A. L. Pisello",
+            "target": "F. Salata"
+        },
+        {
+            "source": "A. L. Pisello",
+            "target": "A. de Lieto Vollaro"
+        },
+        {
+            "source": "F. Cotana",
+            "target": "W. Jin"
+        },
+        {
+            "source": "F. Cotana",
+            "target": "M. Ghandehari"
+        },
+        {
+            "source": "F. Cotana",
+            "target": "I. Golasi"
+        },
+        {
+            "source": "F. Cotana",
+            "target": "V. L. Castaldo"
+        },
+        {
+            "source": "F. Cotana",
+            "target": "C. Piselli"
+        },
+        {
+            "source": "F. Cotana",
+            "target": "F. Salata"
+        },
+        {
+            "source": "F. Cotana",
+            "target": "A. de Lieto Vollaro"
+        },
+        {
+            "source": "G. Concilio",
+            "target": "A. Deserti"
+        },
+        {
+            "source": "M. J. De Cordoba",
+            "target": "S. Day"
+        },
+        {
+            "source": "K. Wetter Edman",
+            "target": "H. Edvardsson Bo"
+        },
+        {
+            "source": "K. Wetter Edman",
+            "target": "C. Gr\u00f6nroos"
+        },
+        {
+            "source": "K. Wetter Edman",
+            "target": "T. Mattelm\u00e4ki"
+        },
+        {
+            "source": "H. Edvardsson Bo",
+            "target": "C. Gr\u00f6nroos"
+        },
+        {
+            "source": "H. Edvardsson Bo",
+            "target": "T. Mattelm\u00e4ki"
+        },
+        {
+            "source": "C. Gr\u00f6nroos",
+            "target": "T. Mattelm\u00e4ki"
+        },
+        {
+            "source": "G. Baule",
+            "target": "E. Caratti"
+        },
+        {
+            "source": "M. Sbordone",
+            "target": "R. Veneziano"
+        },
+        {
+            "source": "M. Sbordone",
+            "target": "P. Ranzo"
+        },
+        {
+            "source": "M. Sbordone",
+            "target": "G. Gentile"
+        },
+        {
+            "source": "M. Sbordone",
+            "target": "G. Cesaro"
+        },
+        {
+            "source": "M. Sbordone",
+            "target": "L. Maffei"
+        },
+        {
+            "source": "M. Sbordone",
+            "target": "M. Masullo"
+        },
+        {
+            "source": "R. Veneziano",
+            "target": "C. Scarpitti"
+        },
+        {
+            "source": "R. Veneziano",
+            "target": "P. Ranzo"
+        },
+        {
+            "source": "S. Gramegna",
+            "target": "B. Imamogullari"
+        },
+        {
+            "source": "S. Gramegna",
+            "target": "J. Chen"
+        },
+        {
+            "source": "E. Caratti",
+            "target": "A. Rebaglio"
+        },
+        {
+            "source": "E. Caratti",
+            "target": "A. Penati"
+        },
+        {
+            "source": "E. Caratti",
+            "target": "S. Pizzocaro"
+        },
+        {
+            "source": "E. Caratti",
+            "target": "C. Tonelli"
+        },
+        {
+            "source": "E. Caratti",
+            "target": "C. Standoli"
+        },
+        {
+            "source": "E. Caratti",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "E. Caratti",
+            "target": "G. Andreoni"
+        },
+        {
+            "source": "P. Di Nardo",
+            "target": "A.Vokshi"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "M. Bertolo"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "E. Gandolfi"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "J. Ackermann"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "E. Alberello Conti"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "T. Livio"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "L. Varisco"
+        },
+        {
+            "source": "I. Mariani",
+            "target": " S. Parisi"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "M. Stepanovic"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "M. Invernizzi"
+        },
+        {
+            "source": "I. Mariani",
+            "target": "P. Bolzan"
+        },
+        {
+            "source": "M. Bertolo",
+            "target": "E. Alberello Conti"
+        },
+        {
+            "source": "C. Olivastri",
+            "target": "R. Fagnoni"
+        },
+        {
+            "source": "A. Bosco",
+            "target": "M. Zannoni"
+        },
+        {
+            "source": "A. Bosco",
+            "target": "E. La Maida"
+        },
+        {
+            "source": "A. Bosco",
+            "target": "S. Gasparotto"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "C. De Giorgi"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "C. Allione"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "B. Lerma"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "L. Actis Grosso"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "L. Shtrepi"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "M. Gasperini"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "A. Astolfi"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "M. Actis Grande"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "E. Buiatti"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "G. E. Puglisi"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "O. Houix"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "P. Susini"
+        },
+        {
+            "source": "D. Dal Pal\u00f9",
+            "target": "M. Bozzola"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "C. Allione"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "B. Lerma"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "L. Actis Grosso"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "L. Shtrepi"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "M. Gasperini"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "A. Astolfi"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "M. Actis Grande"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "E. Buiatti"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "G. E. Puglisi"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "O. Houix"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "P. Susini"
+        },
+        {
+            "source": "C. De Giorgi",
+            "target": "M. Bozzola"
+        },
+        {
+            "source": "C. Porfirione",
+            "target": "N. Casiddu"
+        },
+        {
+            "source": "C. Porfirione",
+            "target": " M. Zallio"
+        },
+        {
+            "source": "C. Porfirione",
+            "target": "E. Micheli"
+        },
+        {
+            "source": "C. Porfirione",
+            "target": "F. Burlando"
+        },
+        {
+            "source": "N. Casiddu",
+            "target": " M. Zallio"
+        },
+        {
+            "source": "N. Casiddu",
+            "target": "E. Micheli"
+        },
+        {
+            "source": "N. Casiddu",
+            "target": "F. Burlando"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "S. Maffei"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "M. Bianchini"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "M. Mortati"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "M. Carulli"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "M. Bordegoni"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "M. Ventrella"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "L. Varisco"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": " S. Parisi"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "M. Stepanovic"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "M. Invernizzi"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "F. Gaetani"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "C. Dastoli"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "B. Del Curto"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": " M. Bianchini"
+        },
+        {
+            "source": "P. Bolzan",
+            "target": "C. E. Standoli"
+        },
+        {
+            "source": "S. Maffei",
+            "target": "M. Bianchini"
+        },
+        {
+            "source": "S. Maffei",
+            "target": "B. Villari"
+        },
+        {
+            "source": "S. Maffei",
+            "target": "M. Mortati"
+        },
+        {
+            "source": "S. Maffei",
+            "target": "M. Carulli"
+        },
+        {
+            "source": "S. Maffei",
+            "target": "M. Bordegoni"
+        },
+        {
+            "source": "S. Maffei",
+            "target": "C. Dastoli"
+        },
+        {
+            "source": "S. Maffei",
+            "target": "B. Del Curto"
+        },
+        {
+            "source": "S. Maffei",
+            "target": " M. Bianchini"
+        },
+        {
+            "source": "M. Bianchini",
+            "target": "M. Carulli"
+        },
+        {
+            "source": "M. Bianchini",
+            "target": "M. Bordegoni"
+        },
+        {
+            "source": "M. Bianchini",
+            "target": "F. Gaetani"
+        },
+        {
+            "source": "M. Bianchini",
+            "target": "C. Dastoli"
+        },
+        {
+            "source": "M. Bianchini",
+            "target": "B. Del Curto"
+        },
+        {
+            "source": "I. Caruso",
+            "target": "V. Maselli"
+        },
+        {
+            "source": "C. Lecce",
+            "target": "M. Pirola"
+        },
+        {
+            "source": "C. Lecce",
+            "target": "C. Fauda "
+        },
+        {
+            "source": "C. Scarpitti",
+            "target": "P. Ranzo"
+        },
+        {
+            "source": "C. Scarpitti",
+            "target": "F. Dell'Aglio"
+        },
+        {
+            "source": "C. Scarpitti",
+            "target": "E. Migliore"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "M. Romero"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "G. Vazzoler"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "G. Andreoni"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "F. C. E. Costa"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "A. Mazzola"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "S. Muschiata"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "D. Zambarbieri"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "M. R. Guarneri"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "P. Perego"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "M. Mazzola"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "S. E. Lenzi"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "N. F. Lopomo"
+        },
+        {
+            "source": "C. E. Standoli",
+            "target": "G. Andreoni "
+        },
+        {
+            "source": "M. Romero",
+            "target": "G. Vazzoler"
+        },
+        {
+            "source": "M. Romero",
+            "target": "G. Andreoni"
+        },
+        {
+            "source": "G. Vazzoler",
+            "target": "G. Andreoni"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "M. R. Guarneri"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "P. Perego"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "M. Mazzola"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "A. Mazzola"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "A. Penati"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "S. Pizzocaro"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "C. Tonelli"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "C. Standoli"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "A. Rebaglio"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "N. F. Lopomo"
+        },
+        {
+            "source": "G. Andreoni",
+            "target": "S. E. Lenzi"
+        },
+        {
+            "source": "R. Pagani",
+            "target": "G. Tulliani"
+        },
+        {
+            "source": "R. Pagani",
+            "target": "J. M. Christian"
+        },
+        {
+            "source": "G. Tulliani",
+            "target": "J. M. Christian"
+        },
+        {
+            "source": "E. Lupo",
+            "target": "C. Sedini"
+        },
+        {
+            "source": "D. Liberatore",
+            "target": "C. Polini"
+        },
+        {
+            "source": "D. Liberatore",
+            "target": "A. D'Amico"
+        },
+        {
+            "source": "D. Liberatore",
+            "target": "E. Pizzoli"
+        },
+        {
+            "source": "C. Polini",
+            "target": "A. D'Amico"
+        },
+        {
+            "source": "C. Polini",
+            "target": "E. Pizzoli"
+        },
+        {
+            "source": "A. D'Amico",
+            "target": "E. Pizzoli"
+        },
+        {
+            "source": "P. Chueng-Nainby",
+            "target": "D. Xiao"
+        },
+        {
+            "source": "Che Me",
+            "target": "R."
+        },
+        {
+            "source": "A. Rebaglio",
+            "target": "A. De Rosa"
+        },
+        {
+            "source": "A. Rebaglio",
+            "target": "A. Penati"
+        },
+        {
+            "source": "A. Rebaglio",
+            "target": "S. Pizzocaro"
+        },
+        {
+            "source": "A. Rebaglio",
+            "target": "C. Tonelli"
+        },
+        {
+            "source": "A. Rebaglio",
+            "target": "C. Standoli"
+        },
+        {
+            "source": "A. Rebaglio",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "F. Piredda",
+            "target": "S. Venditti"
+        },
+        {
+            "source": "F. Piredda",
+            "target": "M. L. Galbiati"
+        },
+        {
+            "source": "M. Barosio",
+            "target": "M.F. Ramello"
+        },
+        {
+            "source": "M. Barosio",
+            "target": "A. Rosso"
+        },
+        {
+            "source": "M.F. Ramello",
+            "target": "A. Rosso"
+        },
+        {
+            "source": "J. Pierini",
+            "target": "S. Simonelli"
+        },
+        {
+            "source": "J. Pierini",
+            "target": "G. Camillini "
+        },
+        {
+            "source": "J. Pierini",
+            "target": "P. Corraini"
+        },
+        {
+            "source": "J. Pierini",
+            "target": "P. Lacey"
+        },
+        {
+            "source": "M. Mortati",
+            "target": "B. Villari"
+        },
+        {
+            "source": "M. Mortati",
+            "target": "C. Dell'Era"
+        },
+        {
+            "source": "M. Mortati",
+            "target": "L. Gastaldi"
+        },
+        {
+            "source": "J. Mascitti",
+            "target": "L. Pietroni"
+        },
+        {
+            "source": "J. Mascitti",
+            "target": "D. Galloppo"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "T. Venturini"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "D. Ricci"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "L. Kimbell"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "A. Meunier"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "P. Ciuccarelli"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "G. Colombo"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "T. Elli"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "G. Caviglia"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "G.R. Uboldi"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "M. Azzi"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "A. Pini"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "C. Pentzold"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "E. Weltevrede"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "D. Laniado"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "A. Kaltenbrunner"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "K. Borra"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "A. Briones"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "B. Gobbo"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "D. Balsamo"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "P. Bajardi"
+        },
+        {
+            "source": "M. Mauri",
+            "target": "A. Panisson"
+        },
+        {
+            "source": "T. Venturini",
+            "target": "D. Ricci"
+        },
+        {
+            "source": "T. Venturini",
+            "target": "L. Kimbell"
+        },
+        {
+            "source": "T. Venturini",
+            "target": "A. Meunier"
+        },
+        {
+            "source": "D. Ricci",
+            "target": "L. Kimbell"
+        },
+        {
+            "source": "D. Ricci",
+            "target": "A. Meunier"
+        },
+        {
+            "source": "L. Kimbell",
+            "target": "A. Meunier"
+        },
+        {
+            "source": "C. Sedini",
+            "target": "A. Vignati"
+        },
+        {
+            "source": "C. Sedini",
+            "target": " F. Zurlo"
+        },
+        {
+            "source": "C. Sedini",
+            "target": "G. Simonelli"
+        },
+        {
+            "source": "C. Sedini",
+            "target": "L. Fois"
+        },
+        {
+            "source": "A. Vignati",
+            "target": " F. Zurlo"
+        },
+        {
+            "source": "F. C. E. Costa",
+            "target": "A. Mazzola"
+        },
+        {
+            "source": "F. C. E. Costa",
+            "target": "S. Muschiata"
+        },
+        {
+            "source": "F. C. E. Costa",
+            "target": "D. Zambarbieri"
+        },
+        {
+            "source": "A. Mazzola",
+            "target": "S. Muschiata"
+        },
+        {
+            "source": "A. Mazzola",
+            "target": "D. Zambarbieri"
+        },
+        {
+            "source": "A. Mazzola",
+            "target": "M. R. Guarneri"
+        },
+        {
+            "source": "A. Mazzola",
+            "target": "P. Perego"
+        },
+        {
+            "source": "A. Mazzola",
+            "target": "M. Mazzola"
+        },
+        {
+            "source": "S. Muschiata",
+            "target": "D. Zambarbieri"
+        },
+        {
+            "source": "L. Tenuta",
+            "target": "A. Cappellieri"
+        },
+        {
+            "source": "L. Tenuta",
+            "target": "S. Testa"
+        },
+        {
+            "source": "L. Tenuta",
+            "target": "N. Henchoz"
+        },
+        {
+            "source": "L. Tenuta",
+            "target": "A. Vellesalu"
+        },
+        {
+            "source": "L. Tenuta",
+            "target": "C. Colombi "
+        },
+        {
+            "source": "G. Rodon\u00f2",
+            "target": "D. L. Distefano"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "S. M. Porto"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "I. Lionti"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "E. Georgescu"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "M. Georgescu"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "Z. Macri"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "E. M. Marino"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "G. Margani"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "V. Meita"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "R. Pana"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "H. Petran"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "S. M. Cascone",
+            "target": "M. Voica"
+        },
+        {
+            "source": "S. M. Porto",
+            "target": "I. Lionti"
+        },
+        {
+            "source": "S. M. Porto",
+            "target": "P. M. Laenza"
+        },
+        {
+            "source": "S. M. Porto",
+            "target": "S. Cascone"
+        },
+        {
+            "source": "R. Caponetto",
+            "target": "G. Margani"
+        },
+        {
+            "source": "G. Margani",
+            "target": "E. Georgescu"
+        },
+        {
+            "source": "G. Margani",
+            "target": "M. Georgescu"
+        },
+        {
+            "source": "G. Margani",
+            "target": "Z. Macri"
+        },
+        {
+            "source": "G. Margani",
+            "target": "E. M. Marino"
+        },
+        {
+            "source": "G. Margani",
+            "target": "V. Meita"
+        },
+        {
+            "source": "G. Margani",
+            "target": "R. Pana"
+        },
+        {
+            "source": "G. Margani",
+            "target": "H. Petran"
+        },
+        {
+            "source": "G. Margani",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "G. Margani",
+            "target": "M. Voica"
+        },
+        {
+            "source": "D. L. Distefano",
+            "target": "A. Gagliano"
+        },
+        {
+            "source": "D. L. Distefano",
+            "target": "E. Naboni"
+        },
+        {
+            "source": "D. L. Distefano",
+            "target": "N. Timpanaro"
+        },
+        {
+            "source": "P. M. Laenza",
+            "target": "S. Cascone"
+        },
+        {
+            "source": "S. Cascone",
+            "target": "A. Gagliano"
+        },
+        {
+            "source": "W. Jin",
+            "target": "M. Ghandehari"
+        },
+        {
+            "source": "G. Simonelli",
+            "target": "L. Rampino"
+        },
+        {
+            "source": "G. Simonelli",
+            "target": "S. Colombo"
+        },
+        {
+            "source": "G. Salvia",
+            "target": "C. Bruno"
+        },
+        {
+            "source": "A. Penati",
+            "target": "S. Pizzocaro"
+        },
+        {
+            "source": "A. Penati",
+            "target": "C. Tonelli"
+        },
+        {
+            "source": "A. Penati",
+            "target": "C. Standoli"
+        },
+        {
+            "source": "A. Penati",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "A. Scarcelli",
+            "target": "V. Minenna"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "D. Schillaci"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "S. Ambrosio"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "D. Navarra"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "T. Giuffr\u00e9"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "D"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "Schillaci"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "N. Morelli"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "E. Lissandrello"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "M. La Gennusa"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "G. Peri"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "G. Rizzo"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "I. Vinci"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "S. Tulumello"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "D. Schillaci "
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "L. Mastrolonardo"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "G. Sala"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "G. Spataro"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "B. Caroleo"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "A. Vesco"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "I. D\u2019Hespeel"
+        },
+        {
+            "source": "S. Di Dio",
+            "target": "V. Gizzi"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "S. Ambrosio"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "D. Navarra"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "L. Mastrolonardo"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "G. Sala"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "G. Spataro"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "E. Lissandrello"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "B. Caroleo"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "A. Vesco"
+        },
+        {
+            "source": "D. Schillaci",
+            "target": "I. D\u2019Hespeel"
+        },
+        {
+            "source": "S. Ambrosio",
+            "target": "D. Navarra"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "M. Bonaccorsi"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "S. Betti"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "G. Rateni"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "D. Esposito"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "M. Mareseglia"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "P. Dario"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "F. Cavallo"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "I. Patti"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "G. Lotti"
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "F. Tosi "
+        },
+        {
+            "source": "A. Brischetto",
+            "target": "M. Pistolesi"
+        },
+        {
+            "source": "M. Buono",
+            "target": "E. Laudante"
+        },
+        {
+            "source": "B. Lerma",
+            "target": "L. Actis Grosso"
+        },
+        {
+            "source": "B. Lerma",
+            "target": "L. Shtrepi"
+        },
+        {
+            "source": "B. Lerma",
+            "target": "M. Gasperini"
+        },
+        {
+            "source": "B. Lerma",
+            "target": "A. Astolfi"
+        },
+        {
+            "source": "B. Lerma",
+            "target": "M. Actis Grande"
+        },
+        {
+            "source": "B. Lerma",
+            "target": "E. Buiatti"
+        },
+        {
+            "source": "B. Lerma",
+            "target": "M. Bozzola"
+        },
+        {
+            "source": "M. Marseglia",
+            "target": "G. Lotti"
+        },
+        {
+            "source": "M. Marseglia",
+            "target": "D. Giorgi"
+        },
+        {
+            "source": "M. Marseglia",
+            "target": "I. Bedeschi"
+        },
+        {
+            "source": "M. Marseglia",
+            "target": "E. Cianfanelli"
+        },
+        {
+            "source": "M. Marseglia",
+            "target": "M. Tufarelli"
+        },
+        {
+            "source": "M. Pistolesi",
+            "target": "S. Bellucci"
+        },
+        {
+            "source": "M. Pistolesi",
+            "target": "C. Becchimanzi"
+        },
+        {
+            "source": "M. Pistolesi",
+            "target": "E. Iacono"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "P. Rissone"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "F. Rotini"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "F. S. Frillici"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "M. Tomassini "
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "M. Carfagni"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "R. Furferi"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "L. Governi"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "Y. Borgianni"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "L. Maccioni"
+        },
+        {
+            "source": "L. Fiorineschi",
+            "target": "N. Becattini"
+        },
+        {
+            "source": "P. Rissone",
+            "target": "F. Rotini"
+        },
+        {
+            "source": "F. Rotini",
+            "target": "F. S. Frillici"
+        },
+        {
+            "source": "F. Rotini",
+            "target": "M. Tomassini "
+        },
+        {
+            "source": "F. Rotini",
+            "target": "M. Carfagni"
+        },
+        {
+            "source": "F. Rotini",
+            "target": "R. Furferi"
+        },
+        {
+            "source": "F. Rotini",
+            "target": "L. Governi"
+        },
+        {
+            "source": "F. Rotini",
+            "target": "Y. Borgianni"
+        },
+        {
+            "source": "F. Rotini",
+            "target": "L. Maccioni"
+        },
+        {
+            "source": "F. Rotini",
+            "target": "N. Becattini"
+        },
+        {
+            "source": "L. Pietroni",
+            "target": "D. Galloppo"
+        },
+        {
+            "source": "P. Ciuccarelli",
+            "target": "G. Colombo"
+        },
+        {
+            "source": "P. Ciuccarelli",
+            "target": "A. Pini"
+        },
+        {
+            "source": "P. Ciuccarelli",
+            "target": "A. Briones"
+        },
+        {
+            "source": "P. Ciuccarelli",
+            "target": "B. Gobbo"
+        },
+        {
+            "source": "P. Ciuccarelli",
+            "target": "D. Balsamo"
+        },
+        {
+            "source": "P. Ciuccarelli",
+            "target": "P. Bajardi"
+        },
+        {
+            "source": "P. Ciuccarelli",
+            "target": "A. Panisson"
+        },
+        {
+            "source": "M. R. Guarneri",
+            "target": "P. Perego"
+        },
+        {
+            "source": "M. R. Guarneri",
+            "target": "M. Mazzola"
+        },
+        {
+            "source": "P. Perego",
+            "target": "M. Mazzola"
+        },
+        {
+            "source": "P. Perego",
+            "target": "S. E. Lenzi"
+        },
+        {
+            "source": "P. Perego",
+            "target": "N. F. Lopomo"
+        },
+        {
+            "source": "P. Perego",
+            "target": "G. Andreoni "
+        },
+        {
+            "source": "I. Golasi",
+            "target": "V. L. Castaldo"
+        },
+        {
+            "source": "I. Golasi",
+            "target": "C. Piselli"
+        },
+        {
+            "source": "I. Golasi",
+            "target": "F. Salata"
+        },
+        {
+            "source": "I. Golasi",
+            "target": "A. de Lieto Vollaro"
+        },
+        {
+            "source": "V. L. Castaldo",
+            "target": "C. Piselli"
+        },
+        {
+            "source": "V. L. Castaldo",
+            "target": "F. Salata"
+        },
+        {
+            "source": "V. L. Castaldo",
+            "target": "A. de Lieto Vollaro"
+        },
+        {
+            "source": "C. Piselli",
+            "target": "F. Salata"
+        },
+        {
+            "source": "C. Piselli",
+            "target": "A. de Lieto Vollaro"
+        },
+        {
+            "source": "F. Salata",
+            "target": "A. de Lieto Vollaro"
+        },
+        {
+            "source": "L. Rampino",
+            "target": "S. Colombo"
+        },
+        {
+            "source": "O. Cirillo",
+            "target": "D. Calanca"
+        },
+        {
+            "source": "O. Cirillo",
+            "target": "P. Calefato"
+        },
+        {
+            "source": "O. Cirillo",
+            "target": "D. Strangio"
+        },
+        {
+            "source": "O. Cirillo",
+            "target": "L. Dimitrio"
+        },
+        {
+            "source": "O. Cirillo",
+            "target": "A. Vaccari"
+        },
+        {
+            "source": "O. Cirillo",
+            "target": "A. Castellani"
+        },
+        {
+            "source": "D. Calanca",
+            "target": "P. Calefato"
+        },
+        {
+            "source": "D. Calanca",
+            "target": "D. Strangio"
+        },
+        {
+            "source": "D. Calanca",
+            "target": "L. Dimitrio"
+        },
+        {
+            "source": "D. Calanca",
+            "target": "A. Vaccari"
+        },
+        {
+            "source": "D. Calanca",
+            "target": "A. Castellani"
+        },
+        {
+            "source": "P. Calefato",
+            "target": "D. Strangio"
+        },
+        {
+            "source": "P. Calefato",
+            "target": "L. Dimitrio"
+        },
+        {
+            "source": "P. Calefato",
+            "target": "A. Vaccari"
+        },
+        {
+            "source": "P. Calefato",
+            "target": "A. Castellani"
+        },
+        {
+            "source": "D. Strangio",
+            "target": "L. Dimitrio"
+        },
+        {
+            "source": "D. Strangio",
+            "target": "A. Vaccari"
+        },
+        {
+            "source": "D. Strangio",
+            "target": "A. Castellani"
+        },
+        {
+            "source": "L. Dimitrio",
+            "target": "A. Vaccari"
+        },
+        {
+            "source": "L. Dimitrio",
+            "target": "A. Castellani"
+        },
+        {
+            "source": "A. Vaccari",
+            "target": "A. Castellani"
+        },
+        {
+            "source": "I. Vitali",
+            "target": "I. Rifino"
+        },
+        {
+            "source": "I. Patti",
+            "target": "R. Vita"
+        },
+        {
+            "source": "I. Patti",
+            "target": " F. Filippi "
+        },
+        {
+            "source": "R. Vita",
+            "target": " F. Filippi "
+        },
+        {
+            "source": "E. Voltaggio",
+            "target": "C. Ferrari"
+        },
+        {
+            "source": "E. Voltaggio",
+            "target": "S. Liistro"
+        },
+        {
+            "source": "E. Voltaggio",
+            "target": "M. Vitali "
+        },
+        {
+            "source": "C. Ferrari",
+            "target": "S. Liistro"
+        },
+        {
+            "source": "C. Ferrari",
+            "target": "M. Vitali "
+        },
+        {
+            "source": "S. Liistro",
+            "target": "M. Vitali "
+        },
+        {
+            "source": "F. Armato",
+            "target": "S. Follesa"
+        },
+        {
+            "source": "F. Armato",
+            "target": "L. Petrini"
+        },
+        {
+            "source": "M. Bonaccorsi",
+            "target": "S. Betti"
+        },
+        {
+            "source": "M. Bonaccorsi",
+            "target": "G. Rateni"
+        },
+        {
+            "source": "M. Bonaccorsi",
+            "target": "D. Esposito"
+        },
+        {
+            "source": "M. Bonaccorsi",
+            "target": "M. Mareseglia"
+        },
+        {
+            "source": "M. Bonaccorsi",
+            "target": "P. Dario"
+        },
+        {
+            "source": "M. Bonaccorsi",
+            "target": "F. Cavallo"
+        },
+        {
+            "source": "S. Betti",
+            "target": "G. Rateni"
+        },
+        {
+            "source": "S. Betti",
+            "target": "D. Esposito"
+        },
+        {
+            "source": "S. Betti",
+            "target": "M. Mareseglia"
+        },
+        {
+            "source": "S. Betti",
+            "target": "P. Dario"
+        },
+        {
+            "source": "S. Betti",
+            "target": "F. Cavallo"
+        },
+        {
+            "source": "G. Rateni",
+            "target": "D. Esposito"
+        },
+        {
+            "source": "G. Rateni",
+            "target": "M. Mareseglia"
+        },
+        {
+            "source": "G. Rateni",
+            "target": "P. Dario"
+        },
+        {
+            "source": "G. Rateni",
+            "target": "F. Cavallo"
+        },
+        {
+            "source": "D. Esposito",
+            "target": "M. Mareseglia"
+        },
+        {
+            "source": "D. Esposito",
+            "target": "P. Dario"
+        },
+        {
+            "source": "D. Esposito",
+            "target": "F. Cavallo"
+        },
+        {
+            "source": "M. Mareseglia",
+            "target": "P. Dario"
+        },
+        {
+            "source": "M. Mareseglia",
+            "target": "F. Cavallo"
+        },
+        {
+            "source": "P. Dario",
+            "target": "F. Cavallo"
+        },
+        {
+            "source": "L. Actis Grosso",
+            "target": "L. Shtrepi"
+        },
+        {
+            "source": "L. Actis Grosso",
+            "target": "M. Gasperini"
+        },
+        {
+            "source": "L. Actis Grosso",
+            "target": "A. Astolfi"
+        },
+        {
+            "source": "L. Shtrepi",
+            "target": "M. Gasperini"
+        },
+        {
+            "source": "L. Shtrepi",
+            "target": "A. Astolfi"
+        },
+        {
+            "source": "M. Gasperini",
+            "target": "A. Astolfi"
+        },
+        {
+            "source": "A. Astolfi",
+            "target": "E. Buiatti"
+        },
+        {
+            "source": "A. Astolfi",
+            "target": "G. E. Puglisi"
+        },
+        {
+            "source": "A. Astolfi",
+            "target": "O. Houix"
+        },
+        {
+            "source": "A. Astolfi",
+            "target": "P. Susini"
+        },
+        {
+            "source": "E. Buiatti",
+            "target": "G. E. Puglisi"
+        },
+        {
+            "source": "E. Buiatti",
+            "target": "O. Houix"
+        },
+        {
+            "source": "E. Buiatti",
+            "target": "P. Susini"
+        },
+        {
+            "source": "G. E. Puglisi",
+            "target": "O. Houix"
+        },
+        {
+            "source": "G. E. Puglisi",
+            "target": "P. Susini"
+        },
+        {
+            "source": "O. Houix",
+            "target": "P. Susini"
+        },
+        {
+            "source": "G. Lotti",
+            "target": "D. Giorgi"
+        },
+        {
+            "source": "G. Lotti",
+            "target": "F. Tosi "
+        },
+        {
+            "source": "M. Carulli",
+            "target": "M. Bordegoni"
+        },
+        {
+            "source": "G. Colombo",
+            "target": "A. Briones"
+        },
+        {
+            "source": "G. Colombo",
+            "target": "B. Gobbo"
+        },
+        {
+            "source": "T. Elli",
+            "target": "G. Caviglia"
+        },
+        {
+            "source": "T. Elli",
+            "target": "G.R. Uboldi"
+        },
+        {
+            "source": "T. Elli",
+            "target": "M. Azzi"
+        },
+        {
+            "source": "G. Caviglia",
+            "target": "G.R. Uboldi"
+        },
+        {
+            "source": "G. Caviglia",
+            "target": "M. Azzi"
+        },
+        {
+            "source": "G.R. Uboldi",
+            "target": "M. Azzi"
+        },
+        {
+            "source": "C. Pentzold",
+            "target": "E. Weltevrede"
+        },
+        {
+            "source": "C. Pentzold",
+            "target": "D. Laniado"
+        },
+        {
+            "source": "C. Pentzold",
+            "target": "A. Kaltenbrunner"
+        },
+        {
+            "source": "C. Pentzold",
+            "target": "K. Borra"
+        },
+        {
+            "source": "E. Weltevrede",
+            "target": "D. Laniado"
+        },
+        {
+            "source": "E. Weltevrede",
+            "target": "A. Kaltenbrunner"
+        },
+        {
+            "source": "E. Weltevrede",
+            "target": "K. Borra"
+        },
+        {
+            "source": "D. Laniado",
+            "target": "A. Kaltenbrunner"
+        },
+        {
+            "source": "D. Laniado",
+            "target": "K. Borra"
+        },
+        {
+            "source": "A. Kaltenbrunner",
+            "target": "K. Borra"
+        },
+        {
+            "source": "F. Celaschi",
+            "target": "G. Padula"
+        },
+        {
+            "source": "C. Calefato",
+            "target": "C. Ferrarini"
+        },
+        {
+            "source": "C. Calefato",
+            "target": "E. Landini"
+        },
+        {
+            "source": "C. Calefato",
+            "target": "S.M. Tort"
+        },
+        {
+            "source": "C. Calefato",
+            "target": "G.M.E. Quinteiro"
+        },
+        {
+            "source": "C. Ferrarini",
+            "target": "E. Landini"
+        },
+        {
+            "source": "C. Ferrarini",
+            "target": "S.M. Tort"
+        },
+        {
+            "source": "C. Ferrarini",
+            "target": "G.M.E. Quinteiro"
+        },
+        {
+            "source": "E. Landini",
+            "target": "S.M. Tort"
+        },
+        {
+            "source": "E. Landini",
+            "target": "G.M.E. Quinteiro"
+        },
+        {
+            "source": "E. Landini",
+            "target": "A.Castellano"
+        },
+        {
+            "source": "S.M. Tort",
+            "target": "G.M.E. Quinteiro"
+        },
+        {
+            "source": "A. Cappellieri",
+            "target": "S. Testa"
+        },
+        {
+            "source": "A. Cappellieri",
+            "target": "N. Henchoz"
+        },
+        {
+            "source": "E. Georgescu",
+            "target": "M. Georgescu"
+        },
+        {
+            "source": "E. Georgescu",
+            "target": "Z. Macri"
+        },
+        {
+            "source": "E. Georgescu",
+            "target": "E. M. Marino"
+        },
+        {
+            "source": "E. Georgescu",
+            "target": "V. Meita"
+        },
+        {
+            "source": "E. Georgescu",
+            "target": "R. Pana"
+        },
+        {
+            "source": "E. Georgescu",
+            "target": "H. Petran"
+        },
+        {
+            "source": "E. Georgescu",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "E. Georgescu",
+            "target": "M. Voica"
+        },
+        {
+            "source": "M. Georgescu",
+            "target": "Z. Macri"
+        },
+        {
+            "source": "M. Georgescu",
+            "target": "E. M. Marino"
+        },
+        {
+            "source": "M. Georgescu",
+            "target": "V. Meita"
+        },
+        {
+            "source": "M. Georgescu",
+            "target": "R. Pana"
+        },
+        {
+            "source": "M. Georgescu",
+            "target": "H. Petran"
+        },
+        {
+            "source": "M. Georgescu",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "M. Georgescu",
+            "target": "M. Voica"
+        },
+        {
+            "source": "Z. Macri",
+            "target": "E. M. Marino"
+        },
+        {
+            "source": "Z. Macri",
+            "target": "V. Meita"
+        },
+        {
+            "source": "Z. Macri",
+            "target": "R. Pana"
+        },
+        {
+            "source": "Z. Macri",
+            "target": "H. Petran"
+        },
+        {
+            "source": "Z. Macri",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "Z. Macri",
+            "target": "M. Voica"
+        },
+        {
+            "source": "E. M. Marino",
+            "target": "V. Meita"
+        },
+        {
+            "source": "E. M. Marino",
+            "target": "R. Pana"
+        },
+        {
+            "source": "E. M. Marino",
+            "target": "H. Petran"
+        },
+        {
+            "source": "E. M. Marino",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "E. M. Marino",
+            "target": "M. Voica"
+        },
+        {
+            "source": "V. Meita",
+            "target": "R. Pana"
+        },
+        {
+            "source": "V. Meita",
+            "target": "H. Petran"
+        },
+        {
+            "source": "V. Meita",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "V. Meita",
+            "target": "M. Voica"
+        },
+        {
+            "source": "R. Pana",
+            "target": "H. Petran"
+        },
+        {
+            "source": "R. Pana",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "R. Pana",
+            "target": "M. Voica"
+        },
+        {
+            "source": "H. Petran",
+            "target": "P. P. Rossi"
+        },
+        {
+            "source": "H. Petran",
+            "target": "M. Voica"
+        },
+        {
+            "source": "P. P. Rossi",
+            "target": "M. Voica"
+        },
+        {
+            "source": "A. Gagliano",
+            "target": "E. Naboni"
+        },
+        {
+            "source": "A. Gagliano",
+            "target": "N. Timpanaro"
+        },
+        {
+            "source": "E. Naboni",
+            "target": "N. Timpanaro"
+        },
+        {
+            "source": "F. Laureti",
+            "target": "M. Zinzi"
+        },
+        {
+            "source": "F. Laureti",
+            "target": "G. Volpizelli"
+        },
+        {
+            "source": "M. Zinzi",
+            "target": "G. Volpizelli"
+        },
+        {
+            "source": "P. Kim",
+            "target": "N. Wyatt"
+        },
+        {
+            "source": "C. Cecere",
+            "target": "H. Coch"
+        },
+        {
+            "source": "C. Cecere",
+            "target": "M. Morganti"
+        },
+        {
+            "source": "C. Cecere",
+            "target": "A. Salvati"
+        },
+        {
+            "source": "C. Cecere",
+            "target": "S. Mariani"
+        },
+        {
+            "source": "C. Cecere",
+            "target": "S. Mannucci"
+        },
+        {
+            "source": "H. Coch",
+            "target": "M. Morganti"
+        },
+        {
+            "source": "H. Coch",
+            "target": "A. Salvati"
+        },
+        {
+            "source": "M. Morganti",
+            "target": "A. Salvati"
+        },
+        {
+            "source": "M. Morganti",
+            "target": "S. Mariani"
+        },
+        {
+            "source": "M. Morganti",
+            "target": "S. Mannucci"
+        },
+        {
+            "source": "S. Mariani",
+            "target": "S. Mannucci"
+        },
+        {
+            "source": "C. Becchimanzi",
+            "target": "E. Iacono"
+        },
+        {
+            "source": "E. Trevellin",
+            "target": "I. Bedeschi"
+        },
+        {
+            "source": "D",
+            "target": "Schillaci"
+        },
+        {
+            "source": "D",
+            "target": "N. Morelli"
+        },
+        {
+            "source": "D",
+            "target": "E. Lissandrello"
+        },
+        {
+            "source": "Schillaci",
+            "target": "N. Morelli"
+        },
+        {
+            "source": "Schillaci",
+            "target": "E. Lissandrello"
+        },
+        {
+            "source": "N. Morelli",
+            "target": "E. Lissandrello"
+        },
+        {
+            "source": "E. Lissandrello",
+            "target": "B. Caroleo"
+        },
+        {
+            "source": "E. Lissandrello",
+            "target": "A. Vesco"
+        },
+        {
+            "source": "E. Lissandrello",
+            "target": "I. D\u2019Hespeel"
+        },
+        {
+            "source": "M. La Gennusa",
+            "target": "G. Peri"
+        },
+        {
+            "source": "M. La Gennusa",
+            "target": "G. Rizzo"
+        },
+        {
+            "source": "M. La Gennusa",
+            "target": "I. Vinci"
+        },
+        {
+            "source": "G. Peri",
+            "target": "G. Rizzo"
+        },
+        {
+            "source": "G. Peri",
+            "target": "I. Vinci"
+        },
+        {
+            "source": "G. Rizzo",
+            "target": "I. Vinci"
+        },
+        {
+            "source": "M. Zannoni",
+            "target": "E. La Maida"
+        },
+        {
+            "source": "M. Zannoni",
+            "target": "S. Gasparotto"
+        },
+        {
+            "source": "F. S. Frillici",
+            "target": "M. Tomassini "
+        },
+        {
+            "source": "M. Pirola",
+            "target": "C. Fauda "
+        },
+        {
+            "source": "F. Dell'Aglio",
+            "target": "E. Migliore"
+        },
+        {
+            "source": "S. Persiani",
+            "target": "M. Crespi"
+        },
+        {
+            "source": "L. Del Curto",
+            "target": "F. Guarrasi"
+        },
+        {
+            "source": "C. Dell'Era",
+            "target": "L. Gastaldi"
+        },
+        {
+            "source": "E. Duarte",
+            "target": "D. Gambera"
+        },
+        {
+            "source": "M. Maini",
+            "target": "F. Morelli"
+        },
+        {
+            "source": "M. Maini",
+            "target": "D. Meloni"
+        },
+        {
+            "source": "V. La Tilla",
+            "target": "V. Perricone"
+        },
+        {
+            "source": "F. Lima",
+            "target": "L. Patricio"
+        },
+        {
+            "source": "F. Lima",
+            "target": "M. Prestes Joly"
+        },
+        {
+            "source": "F. Lima",
+            "target": "C. Favini"
+        },
+        {
+            "source": "L. Patricio",
+            "target": "M. Prestes Joly"
+        },
+        {
+            "source": "L. Patricio",
+            "target": "C. Favini"
+        },
+        {
+            "source": "L. Patricio",
+            "target": "J. Texeira"
+        },
+        {
+            "source": "M. Prestes Joly",
+            "target": "C. Favini"
+        },
+        {
+            "source": "M. Prestes Joly",
+            "target": "J. Texeira"
+        },
+        {
+            "source": "J. Postell",
+            "target": "M. Sciannam\u00e8"
+        },
+        {
+            "source": "L. Angelini",
+            "target": "O. A. Khaled"
+        },
+        {
+            "source": "L. Angelini",
+            "target": "E. Mugellini"
+        },
+        {
+            "source": "L. Angelini",
+            "target": "M. Caon"
+        },
+        {
+            "source": "O. A. Khaled",
+            "target": "E. Mugellini"
+        },
+        {
+            "source": "O. A. Khaled",
+            "target": "M. Caon"
+        },
+        {
+            "source": "E. Mugellini",
+            "target": "M. Caon"
+        },
+        {
+            "source": "G. Gentile",
+            "target": "G. Cesaro"
+        },
+        {
+            "source": "G. Cosentino",
+            "target": "M. Gelsomini"
+        },
+        {
+            "source": "G. Carella",
+            "target": "M. Tamburello"
+        },
+        {
+            "source": "R. Me",
+            "target": "R. Sulaiman"
+        },
+        {
+            "source": "R. Me",
+            "target": "A. Kassim"
+        },
+        {
+            "source": "R. Me",
+            "target": "K. Kamarudin"
+        },
+        {
+            "source": "R. Me",
+            "target": "H. Ali"
+        },
+        {
+            "source": "R. Me",
+            "target": "I. Saion"
+        },
+        {
+            "source": "R. Sulaiman",
+            "target": "A. Kassim"
+        },
+        {
+            "source": "R. Sulaiman",
+            "target": "K. Kamarudin"
+        },
+        {
+            "source": "R. Sulaiman",
+            "target": "H. Ali"
+        },
+        {
+            "source": "R. Sulaiman",
+            "target": "I. Saion"
+        },
+        {
+            "source": "A. Kassim",
+            "target": "K. Kamarudin"
+        },
+        {
+            "source": "A. Kassim",
+            "target": "H. Ali"
+        },
+        {
+            "source": "A. Kassim",
+            "target": "I. Saion"
+        },
+        {
+            "source": "K. Kamarudin",
+            "target": "H. Ali"
+        },
+        {
+            "source": "K. Kamarudin",
+            "target": "I. Saion"
+        },
+        {
+            "source": "H. Ali",
+            "target": "I. Saion"
+        },
+        {
+            "source": "M. M. Jensen",
+            "target": "J. Weis\u00a0"
+        },
+        {
+            "source": "L. Varisco",
+            "target": " S. Parisi"
+        },
+        {
+            "source": "L. Varisco",
+            "target": "M. Stepanovic"
+        },
+        {
+            "source": "L. Varisco",
+            "target": "M. Invernizzi"
+        },
+        {
+            "source": " S. Parisi",
+            "target": "M. Stepanovic"
+        },
+        {
+            "source": " S. Parisi",
+            "target": "M. Invernizzi"
+        },
+        {
+            "source": "M. Stepanovic",
+            "target": "M. Invernizzi"
+        },
+        {
+            "source": "E. Cianfanelli",
+            "target": "M. Tufarelli"
+        },
+        {
+            "source": "E. Cianfanelli",
+            "target": "B. Terenzi"
+        },
+        {
+            "source": "E. Cianfanelli",
+            "target": "G. Goretti"
+        },
+        {
+            "source": "M. Tufarelli",
+            "target": "B. Terenzi"
+        },
+        {
+            "source": "M. Tufarelli",
+            "target": "G. Goretti"
+        },
+        {
+            "source": "B. Terenzi",
+            "target": "G. Goretti"
+        },
+        {
+            "source": "S. Tulumello",
+            "target": "D. Schillaci "
+        },
+        {
+            "source": "D. Schillaci ",
+            "target": "V. Gizzi"
+        },
+        {
+            "source": "L. Mastrolonardo",
+            "target": "G. Sala"
+        },
+        {
+            "source": "L. Mastrolonardo",
+            "target": "G. Spataro"
+        },
+        {
+            "source": "G. Sala",
+            "target": "G. Spataro"
+        },
+        {
+            "source": "B. Caroleo",
+            "target": "A. Vesco"
+        },
+        {
+            "source": "B. Caroleo",
+            "target": "I. D\u2019Hespeel"
+        },
+        {
+            "source": "A. Vesco",
+            "target": "I. D\u2019Hespeel"
+        },
+        {
+            "source": "S. Del Puglia",
+            "target": "V. Trapani"
+        },
+        {
+            "source": "E. Micheli",
+            "target": "F. Burlando"
+        },
+        {
+            "source": "V. M. Iannilli",
+            "target": "A. V. Penati "
+        },
+        {
+            "source": "V. M. Iannilli",
+            "target": "C. E. Standoli "
+        },
+        {
+            "source": "V. M. Iannilli",
+            "target": "A. V. Penati"
+        },
+        {
+            "source": "C. Dastoli",
+            "target": "B. Del Curto"
+        },
+        {
+            "source": "A. Briones",
+            "target": "B. Gobbo"
+        },
+        {
+            "source": "B. Gobbo",
+            "target": "D. Balsamo"
+        },
+        {
+            "source": "B. Gobbo",
+            "target": "P. Bajardi"
+        },
+        {
+            "source": "B. Gobbo",
+            "target": "A. Panisson"
+        },
+        {
+            "source": "D. Balsamo",
+            "target": "P. Bajardi"
+        },
+        {
+            "source": "D. Balsamo",
+            "target": "A. Panisson"
+        },
+        {
+            "source": "P. Bajardi",
+            "target": "A. Panisson"
+        },
+        {
+            "source": "P. Barcarolo",
+            "target": "M. Di Nicolantonio"
+        },
+        {
+            "source": "P. Barcarolo",
+            "target": "J. Lagatta"
+        },
+        {
+            "source": "M. Di Nicolantonio",
+            "target": "J. Lagatta"
+        },
+        {
+            "source": "M. Di Nicolantonio",
+            "target": "A. Deli"
+        },
+        {
+            "source": "S. E. Lenzi",
+            "target": "N. F. Lopomo"
+        },
+        {
+            "source": "S. E. Lenzi",
+            "target": "G. Andreoni "
+        },
+        {
+            "source": "N. F. Lopomo",
+            "target": "G. Andreoni "
+        },
+        {
+            "source": "C. E. Standoli ",
+            "target": "A. V. Penati"
+        },
+        {
+            "source": "C. E. Standoli ",
+            "target": "L. Forzoni"
+        },
+        {
+            "source": "C. E. Standoli ",
+            "target": "R. De Luca"
+        },
+        {
+            "source": "C. E. Standoli ",
+            "target": "M. Terraroli "
+        },
+        {
+            "source": "C. E. Standoli ",
+            "target": "F. Spelta "
+        },
+        {
+            "source": "S. Testa",
+            "target": "N. Henchoz"
+        },
+        {
+            "source": "L. Maffei",
+            "target": "M. Masullo"
+        },
+        {
+            "source": "M. Gausa Navarro",
+            "target": "N. Canessa"
+        },
+        {
+            "source": "S. Pizzocaro",
+            "target": "C. Tonelli"
+        },
+        {
+            "source": "S. Pizzocaro",
+            "target": "C. Standoli"
+        },
+        {
+            "source": "S. Pizzocaro",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "C. Tonelli",
+            "target": "C. Standoli"
+        },
+        {
+            "source": "C. Tonelli",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "C. Standoli",
+            "target": "V. Bucchetti"
+        },
+        {
+            "source": "M. Carfagni",
+            "target": "R. Furferi"
+        },
+        {
+            "source": "M. Carfagni",
+            "target": "L. Governi"
+        },
+        {
+            "source": "R. Furferi",
+            "target": "L. Governi"
+        },
+        {
+            "source": "Y. Borgianni",
+            "target": "L. Maccioni"
+        },
+        {
+            "source": "Y. Borgianni",
+            "target": "N. Becattini"
+        },
+        {
+            "source": "L. Forzoni",
+            "target": "R. De Luca"
+        },
+        {
+            "source": "L. Forzoni",
+            "target": "M. Terraroli "
+        },
+        {
+            "source": "L. Forzoni",
+            "target": "F. Spelta "
+        },
+        {
+            "source": "R. De Luca",
+            "target": "M. Terraroli "
+        },
+        {
+            "source": "R. De Luca",
+            "target": "F. Spelta "
+        },
+        {
+            "source": "M. Terraroli ",
+            "target": "F. Spelta "
+        }
+    ]
+}
