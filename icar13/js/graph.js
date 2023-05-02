@@ -1,7 +1,9 @@
   var width = 300, height = 300;
 
   // We create a color scale.
-  var color = d3.scale.category10();
+  var color = d3.scaleOrdinal()
+    .domain(res)
+    .range(d3.schemeCategory20)
 
   // We create a force-directed dynamic graph layout.
   var force = d3.layout.force()
